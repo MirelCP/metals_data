@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "122,770",
-    "Change %": "−0.09%",
-    "Change": "−110",
-    "High": "123,330",
-    "Low": "122,500",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "15,460.52",
     "Change %": "+0.67%",
     "Change": "+103.01",
     "High": "15,460.52",
     "Low": "15,420.00",
     "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "122,770",
+    "Change %": "−0.09%",
+    "Change": "−110",
+    "High": "123,330",
+    "Low": "122,500",
+    "Tech Rating": "Sell"
   },
   {
     "Symbol": "NICKEL1!",
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "32,709.00",
-    "Change %": "+1.34%",
-    "Change": "+431.00",
-    "High": "32,709.00",
-    "Low": "32,709.00",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "264,510",
     "Change %": "−0.07%",
     "Change": "−180",
     "High": "265,950",
     "Low": "263,850",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "32,709.00",
+    "Change %": "+1.34%",
+    "Change": "+431.00",
+    "High": "32,709.00",
+    "Low": "32,709.00",
     "Tech Rating": "Buy"
   },
   {
