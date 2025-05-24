@@ -1,0 +1,42 @@
+name: Scrape Metals Prices
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Cada 3 horas
+  workflow_dispatch:       # Para poder lanzarlo manualmente
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Node.js dependencies
+        run: npm install
+        working-directory: ./scripts
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download HTML (Node.js)
+        run: node scripts/script_download_metals.js
+
+      - name: Extract JSON (Python)
+        run: python scripts/extract_json_metals.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
