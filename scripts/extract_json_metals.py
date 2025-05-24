@@ -12,7 +12,7 @@ if not html_files:
 html_files.sort(key=os.path.getmtime, reverse=True)
 html_path = html_files[0]
 print(f"Usando HTML: {html_path}")
-output_dir = "public/"
+output_dir = "data_json"
 output_json = os.path.join(output_dir, "metals_futures.json")
 
 if not os.path.exists(output_dir):
