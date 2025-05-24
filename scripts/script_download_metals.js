@@ -3,10 +3,10 @@ const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
 
-// 🎲 Delay aleatorio
-const delay = (min, max) => new Promise(resolve => setTimeout(resolve, Math.random() * (max - min) + min));
+// Parámetros fijos
+const targetUrl = "https://www.tradingview.com/markets/futures/quotes-metals/";
 
-// 📱 Lista de user agents realistas
+// Lista de user agents realistas
 const userAgents = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15",
@@ -14,31 +14,27 @@ const userAgents = [
   "Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1"
 ];
 
-// 🌐 Accept-Language aleatorio
+// Accept-Language aleatorio
 const acceptLanguages = [
   'en-US,en;q=0.9',
   'es-ES,es;q=0.9',
   'en;q=0.9'
 ];
 
-// Carpeta donde se guardarán los HTML
+// Carpeta donde se guardarán los HTML y screenshots (fuera de /scripts)
 const dataDir = path.join(__dirname, "data");
 if (!fs.existsSync(dataDir)) {
-  fs.mkdirSync(dataDir);
+  fs.mkdirSync(dataDir, { recursive: true });
 }
 
-// Leer la URL desde argumentos de consola
-const inputUrl = process.argv[2];
-if (!inputUrl || !/^https?:\/\/.+\..+/.test(inputUrl)) {
-  console.log("❌ Debes indicar una URL válida como argumento. Ejemplo: node script.js https://ejemplo.com");
-  process.exit(1);
-}
+const delay = (min, max) =>
+  new Promise(resolve => setTimeout(resolve, Math.random() * (max - min) + min));
 
 (async () => {
   const sessionId = crypto.randomBytes(4).toString('hex');
   const userAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
   const acceptLanguage = acceptLanguages[Math.floor(Math.random() * acceptLanguages.length)];
-  
+
   const browser = await puppeteer.launch({
     headless: true,
     args: [
@@ -60,15 +56,15 @@ if (!inputUrl || !/^https?:\/\/.+\..+/.test(inputUrl)) {
   await delay(2000, 4000);
 
   try {
-    console.log(`🌍 Navegando a: ${inputUrl}`);
-    await page.goto(inputUrl, { waitUntil: "networkidle2", timeout: 40000 });
+    console.log(`🌍 Navegando a: ${targetUrl}`);
+    await page.goto(targetUrl, { waitUntil: "networkidle2", timeout: 40000 });
   } catch (err) {
     console.log(`⚠️ Error al cargar la página: ${err.message}`);
     await browser.close();
     return;
   }
 
-  // Scroll humano para cargar posibles contenidos dinámicos
+  // Scroll humano para cargar contenidos dinámicos
   const simulateHumanScrolling = async () => {
     const steps = Math.floor(Math.random() * 5) + 3;
     for (let i = 0; i < steps; i++) {
@@ -81,7 +77,7 @@ if (!inputUrl || !/^https?:\/\/.+\..+/.test(inputUrl)) {
   await delay(1500, 2500);
 
   // Guardar el HTML de la página
-  const cleanUrl = inputUrl.replace(/[^a-zA-Z0-9]/g, "_").slice(0, 60);
+  const cleanUrl = targetUrl.replace(/[^a-zA-Z0-9]/g, "_").slice(0, 60);
   const filename = `download_${cleanUrl}_${sessionId}.html`;
   const filePath = path.join(dataDir, filename);
 
