@@ -28,8 +28,7 @@ venv.bak/
 data/
 !data/.gitkeep   # <-- si quieres mantener la carpeta vacía
 
-# Output JSON (si lo generas y publicas solo desde el workflow)
-public/metals_futures.json
+
 
 # Environment variables & secrets
 .env
