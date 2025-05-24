@@ -5,6 +5,9 @@ on:
     - cron: '0 */3 * * *'  # Cada 3 horas
   workflow_dispatch:       # Para poder lanzarlo manualmente
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
