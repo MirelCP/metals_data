@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "15,460.52",
-    "Change %": "+0.67%",
-    "Change": "+103.01",
-    "High": "15,460.52",
-    "Low": "15,420.00",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "122,770",
     "Change %": "−0.09%",
     "Change": "−110",
     "High": "123,330",
     "Low": "122,500",
     "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "15,460.52",
+    "Change %": "+0.67%",
+    "Change": "+103.01",
+    "High": "15,460.52",
+    "Low": "15,420.00",
+    "Tech Rating": "Neutral"
   },
   {
     "Symbol": "NICKEL1!",
