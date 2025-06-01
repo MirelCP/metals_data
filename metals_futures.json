@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "15,079.38",
-    "Change %": "−0.91%",
-    "Change": "−138.98",
-    "High": "15,190.00",
-    "Low": "15,079.38",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "121,080",
     "Change %": "+1.12%",
     "Change": "+1,340",
     "High": "121,620",
     "Low": "120,520",
+    "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "15,079.38",
+    "Change %": "−0.91%",
+    "Change": "−138.98",
+    "High": "15,190.00",
+    "Low": "15,079.38",
     "Tech Rating": "Sell"
   },
   {
@@ -392,21 +392,21 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,952.42",
-    "Change %": "−0.25%",
-    "Change": "−4.99",
-    "High": "1,952.42",
-    "Low": "1,947.50",
-    "Tech Rating": "Strong sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,620",
     "Change %": "−0.81%",
     "Change": "−135",
     "High": "16,715",
     "Low": "16,540",
+    "Tech Rating": "Strong sell"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,952.42",
+    "Change %": "−0.25%",
+    "Change": "−4.99",
+    "High": "1,952.42",
+    "Low": "1,947.50",
     "Tech Rating": "Strong sell"
   },
   {
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "252,910",
-    "Change %": "−1.85%",
-    "Change": "−4,780",
-    "High": "257,600",
-    "Low": "250,000",
-    "Tech Rating": "Strong sell"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "30,304.00",
     "Change %": "−2.67%",
     "Change": "−830.00",
     "High": "30,304.00",
     "Low": "30,130.00",
+    "Tech Rating": "Strong sell"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "252,910",
+    "Change %": "−1.85%",
+    "Change": "−4,780",
+    "High": "257,600",
+    "Low": "250,000",
     "Tech Rating": "Strong sell"
   },
   {
