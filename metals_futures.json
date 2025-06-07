@@ -392,21 +392,21 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,967.50",
-    "Change %": "−0.15%",
-    "Change": "−2.93",
-    "High": "1,975.00",
-    "Low": "1,964.50",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,710",
     "Change %": "+0.15%",
     "Change": "+25",
     "High": "16,765",
     "Low": "16,695",
+    "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,967.50",
+    "Change %": "−0.15%",
+    "Change": "−2.93",
+    "High": "1,975.00",
+    "Low": "1,964.50",
     "Tech Rating": "Sell"
   },
   {
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "32,373.00",
-    "Change %": "−0.46%",
-    "Change": "−150.00",
-    "High": "32,373.00",
-    "Low": "32,373.00",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "262,930",
     "Change %": "+0.00%",
     "Change": "+10",
     "High": "263,340",
     "Low": "261,420",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "32,373.00",
+    "Change %": "−0.46%",
+    "Change": "−150.00",
+    "High": "32,373.00",
+    "Low": "32,373.00",
     "Tech Rating": "Buy"
   },
   {
