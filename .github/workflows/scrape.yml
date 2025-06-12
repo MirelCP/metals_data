@@ -23,7 +23,16 @@ jobs:
         with:
           node-version: '20'
 
-      # 3. Entorno Python
+      # 3. Cache Node modules
+      - name: Cache Node.js modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      # 4. Entorno Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -31,7 +40,11 @@ jobs:
 
       # 4. Dependencias Node (tu scraper)
       - name: Install Node.js dependencies
-        run: npm install
+        run: |
+          npm config set registry https://registry.npmjs.org/
+          for i in 1 2 3; do
+            npm install && break || sleep 15
+          done
         working-directory: ./scripts
 
       # 5. Dependencias Python
