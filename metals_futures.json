@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "14,938.42",
-    "Change %": "−0.11%",
-    "Change": "−15.83",
-    "High": "14,938.42",
-    "Low": "14,938.42",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "119,930",
     "Change %": "−0.08%",
     "Change": "−100",
     "High": "120,330",
     "Low": "119,450",
     "Tech Rating": "Strong sell"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "14,938.42",
+    "Change %": "−0.11%",
+    "Change": "−15.83",
+    "High": "14,938.42",
+    "Low": "14,938.42",
+    "Tech Rating": "Sell"
   },
   {
     "Symbol": "NICKEL1!",
@@ -392,22 +392,22 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,979.36",
-    "Change %": "−0.24%",
-    "Change": "−4.86",
-    "High": "1,983.50",
-    "Low": "1,979.36",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,920",
     "Change %": "−0.18%",
     "Change": "−30",
     "High": "16,950",
     "Low": "16,880",
     "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,979.36",
+    "Change %": "−0.24%",
+    "Change": "−4.86",
+    "High": "1,983.50",
+    "Low": "1,979.36",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "PD1!",
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "265,580",
-    "Change %": "+0.51%",
-    "Change": "+1,340",
-    "High": "265,580",
-    "Low": "263,360",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "32,603.50",
     "Change %": "+0.12%",
     "Change": "+39.60",
     "High": "32,603.50",
     "Low": "32,603.50",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "265,580",
+    "Change %": "+0.51%",
+    "Change": "+1,340",
+    "High": "265,580",
+    "Low": "263,360",
     "Tech Rating": "Buy"
   },
   {
