@@ -132,9 +132,9 @@
   {
     "Symbol": "FEF1!",
     "Name": "SGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures",
-    "Price": "95.10",
-    "Change %": "0.00%",
-    "Change": "0.00",
+    "Price": "94.90",
+    "Change %": "−0.21%",
+    "Change": "−0.20",
     "High": "95.20",
     "Low": "94.50",
     "Tech Rating": "Sell"
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "32,603.50",
-    "Change %": "+0.12%",
-    "Change": "+39.60",
-    "High": "32,603.50",
-    "Low": "32,603.50",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "265,580",
     "Change %": "+0.51%",
     "Change": "+1,340",
     "High": "265,580",
     "Low": "263,360",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "32,603.50",
+    "Change %": "+0.12%",
+    "Change": "+39.60",
+    "High": "32,603.50",
+    "Low": "32,603.50",
     "Tech Rating": "Buy"
   },
   {
