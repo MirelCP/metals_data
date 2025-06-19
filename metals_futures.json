@@ -2,19 +2,19 @@
   {
     "Symbol": "1OZ1!",
     "Name": "1-Ounce Gold Futures",
-    "Price": "3,408.00",
-    "Change %": "+0.03%",
-    "Change": "+1.00",
-    "High": "3,418.50",
-    "Low": "3,380.25",
+    "Price": "3,397.50",
+    "Change %": "−0.31%",
+    "Change": "−10.50",
+    "High": "3,403.75",
+    "Low": "3,387.50",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "AG1!",
     "Name": "Silver Futures",
-    "Price": "8,986",
-    "Change %": "−0.41%",
-    "Change": "−37",
+    "Price": "8,953",
+    "Change %": "−0.78%",
+    "Change": "−70",
     "High": "9,059",
     "Low": "8,935",
     "Tech Rating": "Buy"
@@ -32,22 +32,22 @@
   {
     "Symbol": "AL1!",
     "Name": "Aluminum Futures",
-    "Price": "20,645",
-    "Change %": "+0.05%",
-    "Change": "+10",
-    "High": "20,650",
+    "Price": "20,640",
+    "Change %": "+0.02%",
+    "Change": "+5",
+    "High": "20,695",
     "Low": "20,590",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "ALI1!",
     "Name": "Aluminum Futures",
-    "Price": "2,535.25",
-    "Change %": "+0.93%",
-    "Change": "+23.25",
-    "High": "2,567.75",
-    "Low": "2,516.75",
-    "Tech Rating": "Strong buy"
+    "Price": "2,532.25",
+    "Change %": "−0.12%",
+    "Change": "−3.00",
+    "High": "2,532.25",
+    "Low": "2,532.25",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "ALUMINI1!",
@@ -72,9 +72,9 @@
   {
     "Symbol": "AU1!",
     "Name": "Gold Futures",
-    "Price": "787.86",
-    "Change %": "+0.35%",
-    "Change": "+2.76",
+    "Price": "785.08",
+    "Change %": "−0.00%",
+    "Change": "−0.02",
     "High": "789.10",
     "Low": "783.66",
     "Tech Rating": "Buy"
@@ -122,9 +122,9 @@
   {
     "Symbol": "CU1!",
     "Name": "Copper Cathode Futures",
-    "Price": "78,610",
-    "Change %": "−0.01%",
-    "Change": "−10",
+    "Price": "78,560",
+    "Change %": "−0.08%",
+    "Change": "−60",
     "High": "78,700",
     "Low": "78,500",
     "Tech Rating": "Buy"
@@ -132,32 +132,32 @@
   {
     "Symbol": "FEF1!",
     "Name": "SGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures",
-    "Price": "94.40",
-    "Change %": "0.00%",
-    "Change": "0.00",
+    "Price": "94.30",
+    "Change %": "−0.11%",
+    "Change": "−0.10",
     "High": "94.70",
-    "Low": "94.35",
+    "Low": "94.30",
     "Tech Rating": "Sell"
   },
   {
     "Symbol": "FGLD1!",
     "Name": "Gold Futures",
-    "Price": "3,391.6",
-    "Change %": "+0.13%",
-    "Change": "+4.5",
+    "Price": "3,389.0",
+    "Change %": "+0.06%",
+    "Change": "+1.9",
     "High": "3,400.7",
-    "Low": "3,391.6",
+    "Low": "3,389.0",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "GC1!",
     "Name": "Gold Futures",
-    "Price": "3,408.1",
-    "Change %": "+0.04%",
-    "Change": "+1.2",
-    "High": "3,419.0",
-    "Low": "3,380.1",
-    "Tech Rating": "Buy"
+    "Price": "3,397.4",
+    "Change %": "−0.31%",
+    "Change": "−10.7",
+    "High": "3,405.2",
+    "Low": "3,386.3",
+    "Tech Rating": "Strong buy"
   },
   {
     "Symbol": "GD1!",
@@ -232,21 +232,21 @@
   {
     "Symbol": "HC1!",
     "Name": "Hot Rolled Coils Futures",
-    "Price": "3,103",
-    "Change %": "+0.13%",
-    "Change": "+4",
+    "Price": "3,107",
+    "Change %": "+0.26%",
+    "Change": "+8",
     "High": "3,120",
     "Low": "3,100",
-    "Tech Rating": "Sell"
+    "Tech Rating": "Neutral"
   },
   {
     "Symbol": "HG1!",
     "Name": "Copper Futures",
-    "Price": "4.8530",
-    "Change %": "+0.91%",
-    "Change": "+0.0440",
-    "High": "4.8710",
-    "Low": "4.7845",
+    "Price": "4.8520",
+    "Change %": "−0.02%",
+    "Change": "−0.0010",
+    "High": "4.8685",
+    "Low": "4.8465",
     "Tech Rating": "Buy"
   },
   {
@@ -322,29 +322,29 @@
   {
     "Symbol": "MGC1!",
     "Name": "Micro Gold Futures",
-    "Price": "3,408.1",
-    "Change %": "+0.04%",
-    "Change": "+1.2",
-    "High": "3,419.0",
-    "Low": "3,380.0",
-    "Tech Rating": "Buy"
+    "Price": "3,397.4",
+    "Change %": "−0.31%",
+    "Change": "−10.7",
+    "High": "3,405.1",
+    "Low": "3,386.1",
+    "Tech Rating": "Strong buy"
   },
   {
     "Symbol": "MHG1!",
     "Name": "Micro Copper Futures",
-    "Price": "4.8530",
-    "Change %": "+0.91%",
-    "Change": "+0.0440",
-    "High": "4.8730",
-    "Low": "4.7805",
+    "Price": "4.8520",
+    "Change %": "−0.02%",
+    "Change": "−0.0010",
+    "High": "4.8680",
+    "Low": "4.8460",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "119,050",
-    "Change %": "+0.60%",
-    "Change": "+710",
+    "Price": "118,770",
+    "Change %": "+0.36%",
+    "Change": "+430",
     "High": "119,300",
     "Low": "118,460",
     "Tech Rating": "Sell"
@@ -382,22 +382,12 @@
   {
     "Symbol": "PA1!",
     "Name": "Palladium Futures",
-    "Price": "1,060.0",
-    "Change %": "+0.04%",
-    "Change": "+0.5",
-    "High": "1,069.0",
-    "Low": "1,051.0",
+    "Price": "1,067.5",
+    "Change %": "+0.73%",
+    "Change": "+7.5",
+    "High": "1,068.0",
+    "Low": "1,057.0",
     "Tech Rating": "Strong buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
-    "Price": "16,845",
-    "Change %": "+0.06%",
-    "Change": "+10",
-    "High": "16,860",
-    "Low": "16,760",
-    "Tech Rating": "Sell"
   },
   {
     "Symbol": "PB1!",
@@ -408,6 +398,16 @@
     "High": "1,987.04",
     "Low": "1,971.50",
     "Tech Rating": "Strong buy"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "16,900",
+    "Change %": "+0.39%",
+    "Change": "+65",
+    "High": "16,905",
+    "Low": "16,760",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "PD1!",
@@ -422,11 +422,11 @@
   {
     "Symbol": "PL1!",
     "Name": "Platinum Futures",
-    "Price": "1,313.1",
-    "Change %": "+4.07%",
-    "Change": "+51.4",
-    "High": "1,331.1",
-    "Low": "1,251.0",
+    "Price": "1,338.0",
+    "Change %": "+1.90%",
+    "Change": "+24.9",
+    "High": "1,343.4",
+    "Low": "1,321.2",
     "Tech Rating": "Strong buy"
   },
   {
@@ -442,41 +442,41 @@
   {
     "Symbol": "QC1!",
     "Name": "E-mini Copper Futures",
-    "Price": "4.854",
-    "Change %": "+0.91%",
-    "Change": "+0.044",
-    "High": "4.862",
-    "Low": "4.790",
+    "Price": "4.848",
+    "Change %": "−0.12%",
+    "Change": "−0.006",
+    "High": "4.864",
+    "Low": "4.848",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "QI1!",
     "Name": "E-mini Silver Futures",
-    "Price": "36.9125",
-    "Change %": "−0.64%",
-    "Change": "−0.2375",
-    "High": "37.4000",
-    "Low": "36.5750",
+    "Price": "36.7250",
+    "Change %": "−0.51%",
+    "Change": "−0.1875",
+    "High": "36.8250",
+    "Low": "36.7250",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "QO1!",
     "Name": "Gold (Mini) Futures",
-    "Price": "3,408.00",
-    "Change %": "+0.03%",
-    "Change": "+1.00",
-    "High": "3,418.50",
-    "Low": "3,380.50",
+    "Price": "3,396.00",
+    "Change %": "−0.35%",
+    "Change": "−12.00",
+    "High": "3,404.75",
+    "Low": "3,387.00",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "RB1!",
     "Name": "Steel Rebar Futures",
-    "Price": "2,986",
-    "Change %": "+0.13%",
-    "Change": "+4",
+    "Price": "2,987",
+    "Change %": "+0.17%",
+    "Change": "+5",
     "High": "3,002",
-    "Low": "2,983",
+    "Low": "2,981",
     "Tech Rating": "Neutral"
   },
   {
@@ -492,21 +492,21 @@
   {
     "Symbol": "SI1!",
     "Name": "Silver Futures",
-    "Price": "36.915",
-    "Change %": "−0.64%",
-    "Change": "−0.240",
-    "High": "37.405",
-    "Low": "36.540",
+    "Price": "36.750",
+    "Change %": "−0.44%",
+    "Change": "−0.165",
+    "High": "36.820",
+    "Low": "36.690",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "SIL1!",
     "Name": "Micro Silver Futures",
-    "Price": "36.915",
-    "Change %": "−0.64%",
-    "Change": "−0.240",
-    "High": "37.410",
-    "Low": "36.545",
+    "Price": "36.750",
+    "Change %": "−0.44%",
+    "Change": "−0.165",
+    "High": "36.825",
+    "Low": "36.695",
     "Tech Rating": "Buy"
   },
   {
@@ -542,16 +542,6 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "264,150",
-    "Change %": "+0.27%",
-    "Change": "+710",
-    "High": "264,500",
-    "Low": "263,040",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "32,324.00",
     "Change %": "+0.34%",
     "Change": "+107.99",
@@ -560,11 +550,21 @@
     "Tech Rating": "Buy"
   },
   {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "264,060",
+    "Change %": "+0.24%",
+    "Change": "+620",
+    "High": "264,500",
+    "Low": "263,040",
+    "Tech Rating": "Buy"
+  },
+  {
     "Symbol": "SS1!",
     "Name": "Stainless Steel Futures",
-    "Price": "12,530",
-    "Change %": "+0.52%",
-    "Change": "+65",
+    "Price": "12,520",
+    "Change %": "+0.44%",
+    "Change": "+55",
     "High": "12,550",
     "Low": "12,455",
     "Tech Rating": "Sell"
@@ -602,9 +602,9 @@
   {
     "Symbol": "TGD1!",
     "Name": "Gold Futures",
-    "Price": "15,827",
-    "Change %": "−0.23%",
-    "Change": "−36",
+    "Price": "15,852",
+    "Change %": "−0.07%",
+    "Change": "−11",
     "High": "15,915",
     "Low": "15,806",
     "Tech Rating": "Buy"
@@ -612,9 +612,9 @@
   {
     "Symbol": "TGM1!",
     "Name": "Gold mini Futures",
-    "Price": "15,811.0",
-    "Change %": "−0.33%",
-    "Change": "−52.0",
+    "Price": "15,849.5",
+    "Change %": "−0.09%",
+    "Change": "−13.5",
     "High": "15,911.5",
     "Low": "15,804.5",
     "Tech Rating": "Buy"
@@ -632,20 +632,20 @@
   {
     "Symbol": "TPL1!",
     "Name": "Platinum Futures",
-    "Price": "5,735",
-    "Change %": "+3.09%",
-    "Change": "+172",
-    "High": "5,787",
+    "Price": "5,864",
+    "Change %": "+5.41%",
+    "Change": "+301",
+    "High": "5,873",
     "Low": "5,554",
     "Tech Rating": "Strong buy"
   },
   {
     "Symbol": "TPLM1!",
     "Name": "Platinum mini Futures",
-    "Price": "5,730.0",
-    "Change %": "+3.00%",
-    "Change": "+167.0",
-    "High": "5,765.0",
+    "Price": "5,860.0",
+    "Change %": "+5.34%",
+    "Change": "+297.0",
+    "High": "5,864.5",
     "Low": "5,554.0",
     "Tech Rating": "Strong buy"
   },
@@ -742,12 +742,12 @@
   {
     "Symbol": "ZN1!",
     "Name": "Zinc Futures",
-    "Price": "21,955",
-    "Change %": "−0.18%",
-    "Change": "−40",
+    "Price": "21,960",
+    "Change %": "−0.16%",
+    "Change": "−35",
     "High": "22,020",
     "Low": "21,920",
-    "Tech Rating": "Strong sell"
+    "Tech Rating": "Sell"
   },
   {
     "Symbol": "ZS1!",
