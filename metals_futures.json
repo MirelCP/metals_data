@@ -392,22 +392,22 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,985.26",
-    "Change %": "+0.02%",
-    "Change": "+0.35",
-    "High": "1,985.26",
-    "Low": "1,976.50",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,875",
     "Change %": "+0.12%",
     "Change": "+20",
     "High": "16,885",
     "Low": "16,825",
     "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,985.26",
+    "Change %": "+0.02%",
+    "Change": "+0.35",
+    "High": "1,985.26",
+    "Low": "1,976.50",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "PD1!",
