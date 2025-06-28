@@ -132,9 +132,9 @@
   {
     "Symbol": "FEF1!",
     "Name": "SGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures",
-    "Price": "94.40",
-    "Change %": "−0.21%",
-    "Change": "−0.20",
+    "Price": "94.45",
+    "Change %": "−0.16%",
+    "Change": "−0.15",
     "High": "95.10",
     "Low": "94.30",
     "Tech Rating": "Sell"
@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "15,097.21",
-    "Change %": "+0.23%",
-    "Change": "+35.15",
-    "High": "15,097.21",
-    "Low": "15,065.00",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "120,630",
     "Change %": "+0.71%",
     "Change": "+850",
     "High": "121,000",
     "Low": "120,340",
+    "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "15,097.21",
+    "Change %": "+0.23%",
+    "Change": "+35.15",
+    "High": "15,097.21",
+    "Low": "15,065.00",
     "Tech Rating": "Neutral"
   },
   {
@@ -602,9 +602,9 @@
   {
     "Symbol": "TGD1!",
     "Name": "Gold Futures",
-    "Price": "15,377",
-    "Change %": "−0.14%",
-    "Change": "−21",
+    "Price": "15,375",
+    "Change %": "−0.15%",
+    "Change": "−23",
     "High": "15,443",
     "Low": "15,291",
     "Tech Rating": "Sell"
@@ -612,9 +612,9 @@
   {
     "Symbol": "TGM1!",
     "Name": "Gold mini Futures",
-    "Price": "15,364.0",
-    "Change %": "−0.22%",
-    "Change": "−34.0",
+    "Price": "15,369.5",
+    "Change %": "−0.19%",
+    "Change": "−28.5",
     "High": "15,442.0",
     "Low": "15,286.0",
     "Tech Rating": "Sell"
@@ -632,9 +632,9 @@
   {
     "Symbol": "TPL1!",
     "Name": "Platinum Futures",
-    "Price": "5,979",
-    "Change %": "−1.98%",
-    "Change": "−121",
+    "Price": "5,981",
+    "Change %": "−1.95%",
+    "Change": "−119",
     "High": "6,099",
     "Low": "5,866",
     "Tech Rating": "Strong buy"
