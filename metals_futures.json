@@ -162,9 +162,9 @@
   {
     "Symbol": "GD1!",
     "Name": "Gold Futures",
-    "Price": "3,270.6",
+    "Price": "3,270.7",
     "Change %": "−0.09%",
-    "Change": "−3.1",
+    "Change": "−3.0",
     "High": "3,280.9",
     "Low": "3,266.9",
     "Tech Rating": "Sell"
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "269,730",
-    "Change %": "+1.14%",
-    "Change": "+3,040",
-    "High": "272,000",
-    "Low": "268,120",
-    "Tech Rating": "Strong buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "33,882.01",
     "Change %": "+0.04%",
     "Change": "+12.01",
     "High": "33,882.01",
     "Low": "33,882.01",
+    "Tech Rating": "Strong buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "269,730",
+    "Change %": "+1.14%",
+    "Change": "+3,040",
+    "High": "272,000",
+    "Low": "268,120",
     "Tech Rating": "Strong buy"
   },
   {
