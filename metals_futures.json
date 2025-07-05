@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "121,600",
-    "Change %": "−0.72%",
-    "Change": "−880",
-    "High": "121,900",
-    "Low": "121,100",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "15,123.90",
     "Change %": "−1.08%",
     "Change": "−165.59",
     "High": "15,205.00",
     "Low": "15,123.90",
     "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "121,600",
+    "Change %": "−0.72%",
+    "Change": "−880",
+    "High": "121,900",
+    "Low": "121,100",
+    "Tech Rating": "Neutral"
   },
   {
     "Symbol": "NICKEL1!",
@@ -602,9 +602,9 @@
   {
     "Symbol": "TGD1!",
     "Name": "Gold Futures",
-    "Price": "15,625",
-    "Change %": "−0.12%",
-    "Change": "−19",
+    "Price": "15,634",
+    "Change %": "−0.06%",
+    "Change": "−10",
     "High": "15,663",
     "Low": "15,608",
     "Tech Rating": "Buy"
@@ -632,9 +632,9 @@
   {
     "Symbol": "TPL1!",
     "Name": "Platinum Futures",
-    "Price": "6,140",
-    "Change %": "+0.31%",
-    "Change": "+19",
+    "Price": "6,139",
+    "Change %": "+0.29%",
+    "Change": "+18",
     "High": "6,170",
     "Low": "6,060",
     "Tech Rating": "Strong buy"
