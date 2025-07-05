@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "15,123.90",
-    "Change %": "−1.08%",
-    "Change": "−165.59",
-    "High": "15,205.00",
-    "Low": "15,123.90",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "121,600",
     "Change %": "−0.72%",
     "Change": "−880",
     "High": "121,900",
     "Low": "121,100",
     "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "15,123.90",
+    "Change %": "−1.08%",
+    "Change": "−165.59",
+    "High": "15,205.00",
+    "Low": "15,123.90",
+    "Tech Rating": "Sell"
   },
   {
     "Symbol": "NICKEL1!",
@@ -392,21 +392,21 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "2,048.65",
-    "Change %": "−0.22%",
-    "Change": "−4.60",
-    "High": "2,056.00",
-    "Low": "2,048.65",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "17,225",
     "Change %": "−0.26%",
     "Change": "−45",
     "High": "17,315",
     "Low": "17,225",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "2,048.65",
+    "Change %": "−0.22%",
+    "Change": "−4.60",
+    "High": "2,056.00",
+    "Low": "2,048.65",
     "Tech Rating": "Buy"
   },
   {
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "267,370",
-    "Change %": "−0.60%",
-    "Change": "−1,610",
-    "High": "268,100",
-    "Low": "266,690",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "33,737.00",
     "Change %": "−0.25%",
     "Change": "−84.00",
     "High": "33,737.00",
     "Low": "33,737.00",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "267,370",
+    "Change %": "−0.60%",
+    "Change": "−1,610",
+    "High": "268,100",
+    "Low": "266,690",
     "Tech Rating": "Buy"
   },
   {
