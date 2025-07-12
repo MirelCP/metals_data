@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "14,998.50",
-    "Change %": "−0.66%",
-    "Change": "−99.25",
-    "High": "14,998.50",
-    "Low": "14,975.00",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "120,590",
     "Change %": "−0.50%",
     "Change": "−600",
     "High": "120,960",
     "Low": "120,370",
+    "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "14,998.50",
+    "Change %": "−0.66%",
+    "Change": "−99.25",
+    "High": "14,998.50",
+    "Low": "14,975.00",
     "Tech Rating": "Sell"
   },
   {
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "33,666.21",
-    "Change %": "+0.24%",
-    "Change": "+81.00",
-    "High": "33,666.21",
-    "Low": "33,666.21",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "265,600",
     "Change %": "−0.01%",
     "Change": "−30",
     "High": "266,410",
     "Low": "263,900",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "33,666.21",
+    "Change %": "+0.24%",
+    "Change": "+81.00",
+    "High": "33,666.21",
+    "Low": "33,666.21",
     "Tech Rating": "Buy"
   },
   {
@@ -602,9 +602,9 @@
   {
     "Symbol": "TGD1!",
     "Name": "Gold Futures",
-    "Price": "16,021",
-    "Change %": "+0.83%",
-    "Change": "+132",
+    "Price": "16,035",
+    "Change %": "+0.92%",
+    "Change": "+146",
     "High": "16,053",
     "Low": "15,873",
     "Tech Rating": "Strong buy"
@@ -612,9 +612,9 @@
   {
     "Symbol": "TGM1!",
     "Name": "Gold mini Futures",
-    "Price": "16,019.5",
-    "Change %": "+0.82%",
-    "Change": "+130.5",
+    "Price": "16,023.5",
+    "Change %": "+0.85%",
+    "Change": "+134.5",
     "High": "16,053.0",
     "Low": "15,869.5",
     "Tech Rating": "Strong buy"
@@ -642,9 +642,9 @@
   {
     "Symbol": "TPLM1!",
     "Name": "Platinum mini Futures",
-    "Price": "6,124.5",
-    "Change %": "+0.65%",
-    "Change": "+39.5",
+    "Price": "6,125.5",
+    "Change %": "+0.67%",
+    "Change": "+40.5",
     "High": "6,148.5",
     "Low": "6,061.5",
     "Tech Rating": "Buy"
