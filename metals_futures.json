@@ -132,9 +132,9 @@
   {
     "Symbol": "FEF1!",
     "Name": "SGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures",
-    "Price": "98.60",
-    "Change %": "+0.23%",
-    "Change": "+0.25",
+    "Price": "98.00",
+    "Change %": "−0.38%",
+    "Change": "−0.35",
     "High": "99.15",
     "Low": "98.00",
     "Tech Rating": "Buy"
@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "121,480",
-    "Change %": "+1.02%",
-    "Change": "+1,230",
-    "High": "121,790",
-    "Low": "120,230",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "15,096.36",
     "Change %": "+0.82%",
     "Change": "+123.36",
     "High": "15,096.36",
     "Low": "14,975.00",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "121,480",
+    "Change %": "+1.02%",
+    "Change": "+1,230",
+    "High": "121,790",
+    "Low": "120,230",
     "Tech Rating": "Buy"
   },
   {
@@ -392,21 +392,21 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,989.04",
-    "Change %": "+2.05%",
-    "Change": "+39.87",
-    "High": "1,989.04",
-    "Low": "1,951.50",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,980",
     "Change %": "+0.98%",
     "Change": "+165",
     "High": "16,995",
     "Low": "16,850",
+    "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,989.04",
+    "Change %": "+2.05%",
+    "Change": "+39.87",
+    "High": "1,989.04",
+    "Low": "1,951.50",
     "Tech Rating": "Sell"
   },
   {
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "33,507.00",
-    "Change %": "+1.48%",
-    "Change": "+490.00",
-    "High": "33,507.00",
-    "Low": "33,507.00",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "264,880",
     "Change %": "+0.37%",
     "Change": "+980",
     "High": "265,360",
     "Low": "263,200",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "33,507.00",
+    "Change %": "+1.48%",
+    "Change": "+490.00",
+    "High": "33,507.00",
+    "Low": "33,507.00",
     "Tech Rating": "Buy"
   },
   {
