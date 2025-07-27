@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "121,320",
-    "Change %": "−1.63%",
-    "Change": "−2,010",
-    "High": "125,150",
-    "Low": "120,710",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "15,175.30",
     "Change %": "−0.97%",
     "Change": "−148.80",
     "High": "15,330.00",
     "Low": "15,010.00",
     "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "121,320",
+    "Change %": "−1.63%",
+    "Change": "−2,010",
+    "High": "125,150",
+    "Low": "120,710",
+    "Tech Rating": "Sell"
   },
   {
     "Symbol": "NICKEL1!",
@@ -392,22 +392,22 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "16,825",
-    "Change %": "−0.41%",
-    "Change": "−70",
-    "High": "17,045",
-    "Low": "16,805",
-    "Tech Rating": "Strong sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "2,001.77",
     "Change %": "−0.45%",
     "Change": "−9.01",
     "High": "2,026.00",
     "Low": "2,001.77",
     "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "16,825",
+    "Change %": "−0.41%",
+    "Change": "−70",
+    "High": "17,045",
+    "Low": "16,805",
+    "Tech Rating": "Strong sell"
   },
   {
     "Symbol": "PD1!",
