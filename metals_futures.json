@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "120,000",
-    "Change %": "+0.04%",
-    "Change": "+50",
-    "High": "120,000",
-    "Low": "118,980",
-    "Tech Rating": "Strong sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "14,827.08",
     "Change %": "+0.37%",
     "Change": "+54.26",
     "High": "14,827.08",
     "Low": "14,827.08",
     "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "120,000",
+    "Change %": "+0.04%",
+    "Change": "+50",
+    "High": "120,000",
+    "Low": "118,980",
+    "Tech Rating": "Strong sell"
   },
   {
     "Symbol": "NICKEL1!",
@@ -392,21 +392,21 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,952.96",
-    "Change %": "+0.05%",
-    "Change": "+0.95",
-    "High": "1,958.00",
-    "Low": "1,940.00",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,730",
     "Change %": "+0.60%",
     "Change": "+100",
     "High": "16,795",
     "Low": "16,720",
+    "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,952.96",
+    "Change %": "+0.05%",
+    "Change": "+0.95",
+    "High": "1,958.00",
+    "Low": "1,940.00",
     "Tech Rating": "Sell"
   },
   {
@@ -542,22 +542,22 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "266,400",
-    "Change %": "+0.92%",
-    "Change": "+2,430",
-    "High": "266,400",
-    "Low": "264,920",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "33,395.50",
     "Change %": "+2.16%",
     "Change": "+706.50",
     "High": "33,395.50",
     "Low": "33,395.50",
     "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "266,400",
+    "Change %": "+0.92%",
+    "Change": "+2,430",
+    "High": "266,400",
+    "Low": "264,920",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "SS1!",
