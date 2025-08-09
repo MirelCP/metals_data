@@ -32,11 +32,11 @@
   {
     "Symbol": "AL1!",
     "Name": "Aluminum Futures",
-    "Price": "20,690",
-    "Change %": "+0.05%",
-    "Change": "+10",
-    "High": "20,700",
-    "Low": "20,640",
+    "Price": "20,665",
+    "Change %": "−0.02%",
+    "Change": "−5",
+    "High": "20,695",
+    "Low": "20,625",
     "Tech Rating": "Buy"
   },
   {
@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "14,976.91",
-    "Change %": "+0.27%",
-    "Change": "+39.88",
-    "High": "14,976.91",
-    "Low": "14,890.00",
+    "Price": "121,150",
+    "Change %": "−0.01%",
+    "Change": "−10",
+    "High": "121,760",
+    "Low": "120,700",
     "Tech Rating": "Sell"
   },
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "120,550",
-    "Change %": "−0.35%",
-    "Change": "−420",
-    "High": "120,580",
-    "Low": "120,550",
+    "Price": "14,976.91",
+    "Change %": "+0.27%",
+    "Change": "+39.88",
+    "High": "14,976.91",
+    "Low": "14,890.00",
     "Tech Rating": "Sell"
   },
   {
@@ -392,11 +392,11 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "16,840",
-    "Change %": "+0.27%",
-    "Change": "+45",
-    "High": "16,840",
-    "Low": "16,770",
+    "Price": "16,870",
+    "Change %": "+0.03%",
+    "Change": "+5",
+    "High": "16,900",
+    "Low": "16,820",
     "Tech Rating": "Sell"
   },
   {
@@ -542,11 +542,11 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "267,150",
-    "Change %": "−0.18%",
-    "Change": "−480",
-    "High": "267,200",
-    "Low": "267,150",
+    "Price": "267,450",
+    "Change %": "−0.26%",
+    "Change": "−690",
+    "High": "268,880",
+    "Low": "267,310",
     "Tech Rating": "Buy"
   },
   {
@@ -562,11 +562,11 @@
   {
     "Symbol": "SS1!",
     "Name": "Stainless Steel Futures",
-    "Price": "12,990",
-    "Change %": "+0.04%",
-    "Change": "+5",
-    "High": "12,990",
-    "Low": "12,990",
+    "Price": "13,010",
+    "Change %": "+0.19%",
+    "Change": "+25",
+    "High": "13,045",
+    "Low": "12,940",
     "Tech Rating": "Buy"
   },
   {
@@ -742,11 +742,11 @@
   {
     "Symbol": "ZN1!",
     "Name": "Zinc Futures",
-    "Price": "22,540",
-    "Change %": "+0.24%",
-    "Change": "+55",
-    "High": "22,540",
-    "Low": "22,450",
+    "Price": "22,555",
+    "Change %": "+0.22%",
+    "Change": "+50",
+    "High": "22,595",
+    "Low": "22,425",
     "Tech Rating": "Buy"
   },
   {
