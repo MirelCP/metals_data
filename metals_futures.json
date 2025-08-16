@@ -412,9 +412,9 @@
   {
     "Symbol": "PD1!",
     "Name": "Palladium Futures",
-    "Price": "1,123.50",
-    "Change %": "−0.55%",
-    "Change": "−6.27",
+    "Price": "1,123.93",
+    "Change %": "−0.52%",
+    "Change": "−5.84",
     "High": "1,133.07",
     "Low": "1,121.50",
     "Tech Rating": "Sell"
@@ -542,22 +542,22 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "267,330",
-    "Change %": "+0.29%",
-    "Change": "+770",
-    "High": "267,610",
-    "Low": "266,210",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "33,744.00",
     "Change %": "+0.94%",
     "Change": "+315.00",
     "High": "33,744.00",
     "Low": "33,744.00",
     "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "267,330",
+    "Change %": "+0.29%",
+    "Change": "+770",
+    "High": "267,610",
+    "Low": "266,210",
+    "Tech Rating": "Neutral"
   },
   {
     "Symbol": "SS1!",
