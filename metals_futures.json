@@ -392,21 +392,21 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,955.26",
-    "Change %": "−0.51%",
-    "Change": "−10.02",
-    "High": "1,960.50",
-    "Low": "1,955.26",
-    "Tech Rating": "Strong sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,780",
     "Change %": "−0.27%",
     "Change": "−45",
     "High": "16,830",
     "Low": "16,770",
+    "Tech Rating": "Strong sell"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,955.26",
+    "Change %": "−0.51%",
+    "Change": "−10.02",
+    "High": "1,960.50",
+    "Low": "1,955.26",
     "Tech Rating": "Strong sell"
   },
   {
@@ -432,9 +432,9 @@
   {
     "Symbol": "PT1!",
     "Name": "Platinum Futures",
-    "Price": "1,343.6",
-    "Change %": "−0.10%",
-    "Change": "−1.3",
+    "Price": "1,343.7",
+    "Change %": "−0.09%",
+    "Change": "−1.2",
     "High": "1,349.0",
     "Low": "1,341.7",
     "Tech Rating": "Sell"
