@@ -162,10 +162,10 @@
   {
     "Symbol": "GD1!",
     "Name": "Gold Futures",
-    "Price": "3,338.7",
-    "Change %": "−0.06%",
-    "Change": "−2.0",
-    "High": "3,340.2",
+    "Price": "3,338.9",
+    "Change %": "−0.05%",
+    "Change": "−1.8",
+    "High": "3,340.4",
     "Low": "3,335.1",
     "Tech Rating": "Sell"
   },
@@ -392,16 +392,6 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,955.26",
-    "Change %": "−0.51%",
-    "Change": "−10.02",
-    "High": "1,960.50",
-    "Low": "1,955.26",
-    "Tech Rating": "Strong sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,780",
     "Change %": "−0.27%",
     "Change": "−45",
@@ -410,11 +400,21 @@
     "Tech Rating": "Strong sell"
   },
   {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,955.26",
+    "Change %": "−0.51%",
+    "Change": "−10.02",
+    "High": "1,960.50",
+    "Low": "1,955.26",
+    "Tech Rating": "Strong sell"
+  },
+  {
     "Symbol": "PD1!",
     "Name": "Palladium Futures",
-    "Price": "1,124.48",
-    "Change %": "−0.47%",
-    "Change": "−5.29",
+    "Price": "1,125.62",
+    "Change %": "−0.37%",
+    "Change": "−4.15",
     "High": "1,133.07",
     "Low": "1,120.00",
     "Tech Rating": "Sell"
@@ -542,22 +542,22 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "267,330",
-    "Change %": "+0.29%",
-    "Change": "+770",
-    "High": "267,610",
-    "Low": "266,210",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "33,744.00",
     "Change %": "+0.94%",
     "Change": "+315.00",
     "High": "33,744.00",
     "Low": "33,744.00",
     "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "267,330",
+    "Change %": "+0.29%",
+    "Change": "+770",
+    "High": "267,610",
+    "Low": "266,210",
+    "Tech Rating": "Neutral"
   },
   {
     "Symbol": "SS1!",
@@ -582,9 +582,9 @@
   {
     "Symbol": "SV1!",
     "Name": "Silver Futures",
-    "Price": "38.31",
-    "Change %": "+0.05%",
-    "Change": "+0.02",
+    "Price": "38.28",
+    "Change %": "−0.03%",
+    "Change": "−0.01",
     "High": "38.37",
     "Low": "38.18",
     "Tech Rating": "Neutral"
