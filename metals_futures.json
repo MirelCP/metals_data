@@ -132,9 +132,9 @@
   {
     "Symbol": "FEF1!",
     "Name": "SGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures",
-    "Price": "101.90",
-    "Change %": "+0.06%",
-    "Change": "+0.05",
+    "Price": "102.15",
+    "Change %": "+0.30%",
+    "Change": "+0.30",
     "High": "102.45",
     "Low": "101.90",
     "Tech Rating": "Buy"
@@ -162,9 +162,9 @@
   {
     "Symbol": "GD1!",
     "Name": "Gold Futures",
-    "Price": "3,339.8",
-    "Change %": "−0.03%",
-    "Change": "−0.9",
+    "Price": "3,338.8",
+    "Change %": "−0.06%",
+    "Change": "−1.9",
     "High": "3,340.4",
     "Low": "3,335.1",
     "Tech Rating": "Sell"
@@ -392,16 +392,6 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,955.26",
-    "Change %": "−0.51%",
-    "Change": "−10.02",
-    "High": "1,960.50",
-    "Low": "1,955.26",
-    "Tech Rating": "Strong sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,780",
     "Change %": "−0.27%",
     "Change": "−45",
@@ -410,11 +400,21 @@
     "Tech Rating": "Strong sell"
   },
   {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,955.26",
+    "Change %": "−0.51%",
+    "Change": "−10.02",
+    "High": "1,960.50",
+    "Low": "1,955.26",
+    "Tech Rating": "Strong sell"
+  },
+  {
     "Symbol": "PD1!",
     "Name": "Palladium Futures",
-    "Price": "1,124.90",
-    "Change %": "−0.43%",
-    "Change": "−4.87",
+    "Price": "1,124.40",
+    "Change %": "−0.48%",
+    "Change": "−5.37",
     "High": "1,133.07",
     "Low": "1,120.00",
     "Tech Rating": "Sell"
@@ -432,9 +432,9 @@
   {
     "Symbol": "PT1!",
     "Name": "Platinum Futures",
-    "Price": "1,346.6",
-    "Change %": "+0.13%",
-    "Change": "+1.7",
+    "Price": "1,343.1",
+    "Change %": "−0.13%",
+    "Change": "−1.8",
     "High": "1,349.0",
     "Low": "1,336.4",
     "Tech Rating": "Sell"
@@ -582,9 +582,9 @@
   {
     "Symbol": "SV1!",
     "Name": "Silver Futures",
-    "Price": "38.39",
-    "Change %": "+0.26%",
-    "Change": "+0.10",
+    "Price": "38.41",
+    "Change %": "+0.31%",
+    "Change": "+0.12",
     "High": "38.50",
     "Low": "38.18",
     "Tech Rating": "Buy"
