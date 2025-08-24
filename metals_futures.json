@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "119,980",
-    "Change %": "+0.44%",
-    "Change": "+520",
-    "High": "120,500",
-    "Low": "119,430",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "14,977.67",
     "Change %": "+1.21%",
     "Change": "+178.63",
     "High": "14,977.67",
     "Low": "14,905.00",
+    "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "119,980",
+    "Change %": "+0.44%",
+    "Change": "+520",
+    "High": "120,500",
+    "Low": "119,430",
     "Tech Rating": "Sell"
   },
   {
@@ -392,22 +392,22 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "16,830",
-    "Change %": "+0.42%",
-    "Change": "+70",
-    "High": "16,895",
-    "Low": "16,755",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "1,984.33",
     "Change %": "+1.41%",
     "Change": "+27.52",
     "High": "1,985.00",
     "Low": "1,957.00",
     "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "16,830",
+    "Change %": "+0.42%",
+    "Change": "+70",
+    "High": "16,895",
+    "Low": "16,755",
+    "Tech Rating": "Neutral"
   },
   {
     "Symbol": "PD1!",
@@ -542,22 +542,22 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "33,821.00",
-    "Change %": "+1.16%",
-    "Change": "+389.00",
-    "High": "33,821.00",
-    "Low": "33,821.00",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "268,440",
     "Change %": "+0.79%",
     "Change": "+2,110",
     "High": "271,090",
     "Low": "266,000",
     "Tech Rating": "Strong buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "33,821.00",
+    "Change %": "+1.16%",
+    "Change": "+389.00",
+    "High": "33,821.00",
+    "Low": "33,821.00",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "SS1!",
