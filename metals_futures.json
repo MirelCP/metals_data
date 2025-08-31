@@ -162,9 +162,9 @@
   {
     "Symbol": "GD1!",
     "Name": "Gold Futures",
-    "Price": "3,459.7",
-    "Change %": "+0.18%",
-    "Change": "+6.2",
+    "Price": "3,460.1",
+    "Change %": "+0.19%",
+    "Change": "+6.6",
     "High": "3,462.4",
     "Low": "3,448.9",
     "Tech Rating": "Strong buy"
@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "15,286.58",
-    "Change %": "+1.05%",
-    "Change": "+158.98",
-    "High": "15,286.58",
-    "Low": "15,286.58",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "122,020",
     "Change %": "+0.83%",
     "Change": "+1,010",
     "High": "122,360",
     "Low": "121,550",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "15,286.58",
+    "Change %": "+1.05%",
+    "Change": "+158.98",
+    "High": "15,286.58",
+    "Low": "15,286.58",
     "Tech Rating": "Buy"
   },
   {
@@ -412,12 +412,12 @@
   {
     "Symbol": "PD1!",
     "Name": "Palladium Futures",
-    "Price": "1,122.11",
-    "Change %": "+0.51%",
-    "Change": "+5.70",
+    "Price": "1,122.43",
+    "Change %": "+0.54%",
+    "Change": "+6.02",
     "High": "1,125.41",
     "Low": "1,115.17",
-    "Tech Rating": "Sell"
+    "Tech Rating": "Neutral"
   },
   {
     "Symbol": "PL1!",
@@ -432,9 +432,9 @@
   {
     "Symbol": "PT1!",
     "Name": "Platinum Futures",
-    "Price": "1,372.5",
-    "Change %": "+1.21%",
-    "Change": "+16.4",
+    "Price": "1,370.6",
+    "Change %": "+1.07%",
+    "Change": "+14.5",
     "High": "1,373.3",
     "Low": "1,356.3",
     "Tech Rating": "Buy"
@@ -582,9 +582,9 @@
   {
     "Symbol": "SV1!",
     "Name": "Silver Futures",
-    "Price": "40.07",
-    "Change %": "+0.91%",
-    "Change": "+0.36",
+    "Price": "40.05",
+    "Change %": "+0.86%",
+    "Change": "+0.34",
     "High": "40.18",
     "Low": "39.73",
     "Tech Rating": "Strong buy"
