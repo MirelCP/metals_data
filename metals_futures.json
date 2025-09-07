@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "15,077.07",
-    "Change %": "−0.04%",
-    "Change": "−5.52",
-    "High": "15,175.00",
-    "Low": "15,077.07",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "121,350",
     "Change %": "+0.21%",
     "Change": "+250",
     "High": "122,120",
     "Low": "120,930",
+    "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "15,077.07",
+    "Change %": "−0.04%",
+    "Change": "−5.52",
+    "High": "15,175.00",
+    "Low": "15,077.07",
     "Tech Rating": "Neutral"
   },
   {
@@ -392,21 +392,21 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,962.77",
-    "Change %": "−0.00%",
-    "Change": "−0.03",
-    "High": "1,977.50",
-    "Low": "1,962.77",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,840",
     "Change %": "−0.24%",
     "Change": "−40",
     "High": "16,925",
     "Low": "16,830",
+    "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,962.77",
+    "Change %": "−0.00%",
+    "Change": "−0.03",
+    "High": "1,977.50",
+    "Low": "1,962.77",
     "Tech Rating": "Sell"
   },
   {
@@ -542,22 +542,22 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "269,750",
-    "Change %": "−0.92%",
-    "Change": "−2,500",
-    "High": "274,380",
-    "Low": "269,240",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "34,287.00",
     "Change %": "−0.77%",
     "Change": "−266.50",
     "High": "34,600.00",
     "Low": "34,287.00",
     "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "269,750",
+    "Change %": "−0.92%",
+    "Change": "−2,500",
+    "High": "274,380",
+    "Low": "269,240",
+    "Tech Rating": "Neutral"
   },
   {
     "Symbol": "SS1!",
