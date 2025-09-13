@@ -392,21 +392,21 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "16,965",
-    "Change %": "+0.62%",
-    "Change": "+105",
-    "High": "17,120",
-    "Low": "16,830",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "1,992.38",
     "Change %": "+1.10%",
     "Change": "+21.62",
     "High": "1,992.38",
     "Low": "1,983.50",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "16,965",
+    "Change %": "+0.62%",
+    "Change": "+105",
+    "High": "17,120",
+    "Low": "16,830",
     "Tech Rating": "Buy"
   },
   {
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "272,850",
-    "Change %": "+0.53%",
-    "Change": "+1,440",
-    "High": "274,900",
-    "Low": "270,650",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "34,925.02",
     "Change %": "+0.70%",
     "Change": "+242.02",
     "High": "34,925.02",
     "Low": "34,925.02",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "272,850",
+    "Change %": "+0.53%",
+    "Change": "+1,440",
+    "High": "274,900",
+    "Low": "270,650",
     "Tech Rating": "Buy"
   },
   {
@@ -602,9 +602,9 @@
   {
     "Symbol": "TGD1!",
     "Name": "Gold Futures",
-    "Price": "17,464",
-    "Change %": "−0.04%",
-    "Change": "−7",
+    "Price": "17,461",
+    "Change %": "−0.06%",
+    "Change": "−10",
     "High": "17,524",
     "Low": "17,460",
     "Tech Rating": "Buy"
@@ -612,11 +612,11 @@
   {
     "Symbol": "TGM1!",
     "Name": "Gold mini Futures",
-    "Price": "17,463.0",
-    "Change %": "−0.05%",
-    "Change": "−8.0",
+    "Price": "17,455.0",
+    "Change %": "−0.09%",
+    "Change": "−16.0",
     "High": "17,524.0",
-    "Low": "17,455.5",
+    "Low": "17,455.0",
     "Tech Rating": "Buy"
   },
   {
@@ -632,9 +632,9 @@
   {
     "Symbol": "TPL1!",
     "Name": "Platinum Futures",
-    "Price": "6,242",
-    "Change %": "+0.34%",
-    "Change": "+21",
+    "Price": "6,230",
+    "Change %": "+0.14%",
+    "Change": "+9",
     "High": "6,250",
     "Low": "6,215",
     "Tech Rating": "Strong buy"
@@ -642,9 +642,9 @@
   {
     "Symbol": "TPLM1!",
     "Name": "Platinum mini Futures",
-    "Price": "6,234.0",
-    "Change %": "+0.21%",
-    "Change": "+13.0",
+    "Price": "6,239.5",
+    "Change %": "+0.30%",
+    "Change": "+18.5",
     "High": "6,248.5",
     "Low": "6,216.0",
     "Tech Rating": "Strong buy"
