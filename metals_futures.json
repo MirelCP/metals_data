@@ -162,9 +162,9 @@
   {
     "Symbol": "GD1!",
     "Name": "Gold Futures",
-    "Price": "3,648.3",
-    "Change %": "−0.04%",
-    "Change": "−1.4",
+    "Price": "3,647.9",
+    "Change %": "−0.05%",
+    "Change": "−1.8",
     "High": "3,654.1",
     "Low": "3,646.0",
     "Tech Rating": "Buy"
@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "15,223.30",
-    "Change %": "+1.61%",
-    "Change": "+241.01",
-    "High": "15,223.30",
-    "Low": "15,223.30",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "121,190",
     "Change %": "+0.61%",
     "Change": "+740",
     "High": "122,320",
     "Low": "119,880",
     "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "15,223.30",
+    "Change %": "+1.61%",
+    "Change": "+241.01",
+    "High": "15,223.30",
+    "Low": "15,223.30",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "NICKEL1!",
@@ -392,16 +392,6 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "1,992.38",
-    "Change %": "+1.10%",
-    "Change": "+21.62",
-    "High": "1,992.38",
-    "Low": "1,983.50",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,965",
     "Change %": "+0.62%",
     "Change": "+105",
@@ -410,11 +400,21 @@
     "Tech Rating": "Buy"
   },
   {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "1,992.38",
+    "Change %": "+1.10%",
+    "Change": "+21.62",
+    "High": "1,992.38",
+    "Low": "1,983.50",
+    "Tech Rating": "Buy"
+  },
+  {
     "Symbol": "PD1!",
     "Name": "Palladium Futures",
-    "Price": "1,214.49",
-    "Change %": "−1.17%",
-    "Change": "−14.41",
+    "Price": "1,214.40",
+    "Change %": "−1.18%",
+    "Change": "−14.50",
     "High": "1,230.00",
     "Low": "1,209.90",
     "Tech Rating": "Buy"
@@ -432,9 +432,9 @@
   {
     "Symbol": "PT1!",
     "Name": "Platinum Futures",
-    "Price": "1,404.8",
-    "Change %": "−0.38%",
-    "Change": "−5.4",
+    "Price": "1,407.2",
+    "Change %": "−0.21%",
+    "Change": "−3.0",
     "High": "1,412.3",
     "Low": "1,400.7",
     "Tech Rating": "Strong buy"
