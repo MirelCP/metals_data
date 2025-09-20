@@ -392,21 +392,21 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "17,125",
-    "Change %": "−0.09%",
-    "Change": "−15",
-    "High": "17,170",
-    "Low": "17,110",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "1,985.62",
     "Change %": "−0.53%",
     "Change": "−10.59",
     "High": "1,993.00",
     "Low": "1,985.62",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "17,125",
+    "Change %": "−0.09%",
+    "Change": "−15",
+    "High": "17,170",
+    "Low": "17,110",
     "Tech Rating": "Buy"
   },
   {
@@ -602,9 +602,9 @@
   {
     "Symbol": "TGD1!",
     "Name": "Gold Futures",
-    "Price": "17,669",
-    "Change %": "+0.99%",
-    "Change": "+174",
+    "Price": "17,662",
+    "Change %": "+0.95%",
+    "Change": "+167",
     "High": "17,680",
     "Low": "17,526",
     "Tech Rating": "Strong buy"
@@ -612,9 +612,9 @@
   {
     "Symbol": "TGM1!",
     "Name": "Gold mini Futures",
-    "Price": "17,674.5",
-    "Change %": "+1.03%",
-    "Change": "+179.5",
+    "Price": "17,673.0",
+    "Change %": "+1.02%",
+    "Change": "+178.0",
     "High": "17,674.5",
     "Low": "17,527.0",
     "Tech Rating": "Strong buy"
@@ -632,9 +632,9 @@
   {
     "Symbol": "TPL1!",
     "Name": "Platinum Futures",
-    "Price": "6,277",
-    "Change %": "+1.08%",
-    "Change": "+67",
+    "Price": "6,278",
+    "Change %": "+1.10%",
+    "Change": "+68",
     "High": "6,284",
     "Low": "6,196",
     "Tech Rating": "Strong buy"
