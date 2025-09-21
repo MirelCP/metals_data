@@ -542,22 +542,22 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "271,480",
-    "Change %": "+1.12%",
-    "Change": "+3,010",
-    "High": "271,690",
-    "Low": "268,100",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "34,127.59",
     "Change %": "+1.43%",
     "Change": "+481.59",
     "High": "34,127.59",
     "Low": "34,025.00",
     "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "271,480",
+    "Change %": "+1.12%",
+    "Change": "+3,010",
+    "High": "271,690",
+    "Low": "268,100",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "SS1!",
