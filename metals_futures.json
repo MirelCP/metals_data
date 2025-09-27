@@ -162,9 +162,9 @@
   {
     "Symbol": "GD1!",
     "Name": "Gold Futures",
-    "Price": "3,758.9",
-    "Change %": "−0.40%",
-    "Change": "−15.0",
+    "Price": "3,761.1",
+    "Change %": "−0.34%",
+    "Change": "−12.8",
     "High": "3,778.0",
     "Low": "3,755.7",
     "Tech Rating": "Buy"
@@ -412,9 +412,9 @@
   {
     "Symbol": "PD1!",
     "Name": "Palladium Futures",
-    "Price": "1,311.90",
-    "Change %": "−0.21%",
-    "Change": "−2.76",
+    "Price": "1,311.50",
+    "Change %": "−0.24%",
+    "Change": "−3.16",
     "High": "1,319.86",
     "Low": "1,300.80",
     "Tech Rating": "Buy"
@@ -432,9 +432,9 @@
   {
     "Symbol": "PT1!",
     "Name": "Platinum Futures",
-    "Price": "1,612.8",
-    "Change %": "+1.10%",
-    "Change": "+17.6",
+    "Price": "1,613.9",
+    "Change %": "+1.17%",
+    "Change": "+18.7",
     "High": "1,620.0",
     "Low": "1,595.3",
     "Tech Rating": "Strong buy"
@@ -572,19 +572,19 @@
   {
     "Symbol": "STEEL1!",
     "Name": "Steel Long Futures",
-    "Price": "40,170",
-    "Change %": "+0.25%",
-    "Change": "+100",
-    "High": "40,170",
-    "Low": "40,170",
-    "Tech Rating": "Buy"
+    "Price": "40,060",
+    "Change %": "−0.27%",
+    "Change": "−110",
+    "High": "40,060",
+    "Low": "40,060",
+    "Tech Rating": "Sell"
   },
   {
     "Symbol": "SV1!",
     "Name": "Silver Futures",
-    "Price": "46.33",
-    "Change %": "+0.54%",
-    "Change": "+0.25",
+    "Price": "46.35",
+    "Change %": "+0.59%",
+    "Change": "+0.27",
     "High": "46.65",
     "Low": "45.94",
     "Tech Rating": "Buy"
