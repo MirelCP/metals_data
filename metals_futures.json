@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "120,790",
-    "Change %": "−0.86%",
-    "Change": "−1,050",
-    "High": "121,580",
-    "Low": "120,730",
-    "Tech Rating": "Strong sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "15,031.33",
     "Change %": "−0.79%",
     "Change": "−119.03",
     "High": "15,100.00",
     "Low": "15,031.33",
     "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "120,790",
+    "Change %": "−0.86%",
+    "Change": "−1,050",
+    "High": "121,580",
+    "Low": "120,730",
+    "Tech Rating": "Strong sell"
   },
   {
     "Symbol": "NICKEL1!",
@@ -582,9 +582,9 @@
   {
     "Symbol": "SV1!",
     "Name": "Silver Futures",
-    "Price": "46.35",
-    "Change %": "+0.59%",
-    "Change": "+0.27",
+    "Price": "46.34",
+    "Change %": "+0.56%",
+    "Change": "+0.26",
     "High": "46.65",
     "Low": "45.94",
     "Tech Rating": "Buy"
