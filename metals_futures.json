@@ -132,11 +132,11 @@
   {
     "Symbol": "FEF1!",
     "Name": "SGX IODEX Iron Ore Futures",
-    "Price": "104.00",
-    "Change %": "+0.10%",
-    "Change": "+0.10",
+    "Price": "103.80",
+    "Change %": "−0.10%",
+    "Change": "−0.10",
     "High": "104.10",
-    "Low": "103.85",
+    "Low": "103.80",
     "Tech Rating": "Neutral"
   },
   {
@@ -392,22 +392,22 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "2,007.30",
-    "Change %": "−0.37%",
-    "Change": "−7.55",
-    "High": "2,010.00",
-    "Low": "2,006.00",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,930",
     "Change %": "−0.21%",
     "Change": "−35",
     "High": "16,990",
     "Low": "16,870",
     "Tech Rating": "Sell"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "2,007.30",
+    "Change %": "−0.37%",
+    "Change": "−7.55",
+    "High": "2,010.00",
+    "Low": "2,006.00",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "PD1!",
@@ -602,9 +602,9 @@
   {
     "Symbol": "TGD1!",
     "Name": "Gold Futures",
-    "Price": "18,601",
-    "Change %": "+0.57%",
-    "Change": "+106",
+    "Price": "18,604",
+    "Change %": "+0.59%",
+    "Change": "+109",
     "High": "18,616",
     "Low": "18,454",
     "Tech Rating": "Buy"
@@ -612,9 +612,9 @@
   {
     "Symbol": "TGM1!",
     "Name": "Gold mini Futures",
-    "Price": "18,599.0",
-    "Change %": "+0.56%",
-    "Change": "+104.0",
+    "Price": "18,605.0",
+    "Change %": "+0.59%",
+    "Change": "+110.0",
     "High": "18,615.0",
     "Low": "18,453.0",
     "Tech Rating": "Buy"
@@ -632,20 +632,20 @@
   {
     "Symbol": "TPL1!",
     "Name": "Platinum Futures",
-    "Price": "7,240",
-    "Change %": "+2.59%",
-    "Change": "+183",
-    "High": "7,246",
+    "Price": "7,273",
+    "Change %": "+3.06%",
+    "Change": "+216",
+    "High": "7,273",
     "Low": "7,067",
     "Tech Rating": "Strong buy"
   },
   {
     "Symbol": "TPLM1!",
     "Name": "Platinum mini Futures",
-    "Price": "7,210.0",
-    "Change %": "+2.17%",
-    "Change": "+153.0",
-    "High": "7,220.5",
+    "Price": "7,223.0",
+    "Change %": "+2.35%",
+    "Change": "+166.0",
+    "High": "7,223.0",
     "Low": "7,050.0",
     "Tech Rating": "Strong buy"
   },
