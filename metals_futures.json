@@ -162,9 +162,9 @@
   {
     "Symbol": "GD1!",
     "Name": "Gold Futures",
-    "Price": "3,885.2",
-    "Change %": "+0.15%",
-    "Change": "+5.9",
+    "Price": "3,883.8",
+    "Change %": "+0.12%",
+    "Change": "+4.5",
     "High": "3,885.4",
     "Low": "3,868.2",
     "Tech Rating": "Buy"
@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "121,580",
-    "Change %": "+0.44%",
-    "Change": "+530",
-    "High": "122,420",
-    "Low": "120,830",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "15,278.68",
     "Change %": "+0.77%",
     "Change": "+116.73",
     "High": "15,278.68",
     "Low": "15,215.00",
     "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "121,580",
+    "Change %": "+0.44%",
+    "Change": "+530",
+    "High": "122,420",
+    "Low": "120,830",
+    "Tech Rating": "Neutral"
   },
   {
     "Symbol": "NICKEL1!",
@@ -392,16 +392,6 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "2,007.30",
-    "Change %": "−0.37%",
-    "Change": "−7.55",
-    "High": "2,010.00",
-    "Low": "2,006.00",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "16,930",
     "Change %": "−0.21%",
     "Change": "−35",
@@ -410,11 +400,21 @@
     "Tech Rating": "Sell"
   },
   {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "2,007.30",
+    "Change %": "−0.37%",
+    "Change": "−7.55",
+    "High": "2,010.00",
+    "Low": "2,006.00",
+    "Tech Rating": "Buy"
+  },
+  {
     "Symbol": "PD1!",
     "Name": "Palladium Futures",
-    "Price": "1,286.20",
-    "Change %": "−0.80%",
-    "Change": "−10.43",
+    "Price": "1,288.68",
+    "Change %": "−0.61%",
+    "Change": "−7.95",
     "High": "1,296.78",
     "Low": "1,281.00",
     "Tech Rating": "Buy"
@@ -432,9 +432,9 @@
   {
     "Symbol": "PT1!",
     "Name": "Platinum Futures",
-    "Price": "1,643.9",
+    "Price": "1,644.0",
     "Change %": "+0.31%",
-    "Change": "+5.0",
+    "Change": "+5.1",
     "High": "1,644.9",
     "Low": "1,629.1",
     "Tech Rating": "Strong buy"
@@ -582,9 +582,9 @@
   {
     "Symbol": "SV1!",
     "Name": "Silver Futures",
-    "Price": "48.10",
-    "Change %": "+0.12%",
-    "Change": "+0.06",
+    "Price": "48.08",
+    "Change %": "+0.08%",
+    "Change": "+0.04",
     "High": "48.13",
     "Low": "47.57",
     "Tech Rating": "Strong buy"
