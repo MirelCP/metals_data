@@ -162,12 +162,12 @@
   {
     "Symbol": "GD1!",
     "Name": "Gold Futures",
-    "Price": "4,012.0",
-    "Change %": "−0.20%",
-    "Change": "−8.1",
-    "High": "4,018.2",
-    "Low": "3,973.0",
-    "Tech Rating": "Neutral"
+    "Price": "4,012.6",
+    "Change %": "+0.06%",
+    "Change": "+2.6",
+    "High": "4,012.9",
+    "Low": "4,009.2",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "GF101!",
@@ -412,11 +412,11 @@
   {
     "Symbol": "PD1!",
     "Name": "Palladium Futures",
-    "Price": "1,457.00",
-    "Change %": "−0.76%",
-    "Change": "−11.13",
-    "High": "1,467.53",
-    "Low": "1,447.13",
+    "Price": "1,456.90",
+    "Change %": "+0.01%",
+    "Change": "+0.20",
+    "High": "1,456.90",
+    "Low": "1,455.99",
     "Tech Rating": "Buy"
   },
   {
@@ -432,11 +432,11 @@
   {
     "Symbol": "PT1!",
     "Name": "Platinum Futures",
-    "Price": "1,585.0",
-    "Change %": "−1.18%",
-    "Change": "−18.9",
-    "High": "1,602.2",
-    "Low": "1,579.9",
+    "Price": "1,586.8",
+    "Change %": "+0.15%",
+    "Change": "+2.4",
+    "High": "1,586.8",
+    "Low": "1,585.0",
     "Tech Rating": "Neutral"
   },
   {
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "36,136.00",
-    "Change %": "+0.91%",
-    "Change": "+327.50",
-    "High": "36,136.00",
-    "Low": "36,136.00",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "283,740",
     "Change %": "−0.33%",
     "Change": "−950",
     "High": "286,460",
     "Low": "282,050",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "36,136.00",
+    "Change %": "+0.91%",
+    "Change": "+327.50",
+    "High": "36,136.00",
+    "Low": "36,136.00",
     "Tech Rating": "Buy"
   },
   {
@@ -582,11 +582,11 @@
   {
     "Symbol": "SV1!",
     "Name": "Silver Futures",
-    "Price": "48.33",
-    "Change %": "−0.58%",
-    "Change": "−0.28",
-    "High": "48.57",
-    "Low": "48.02",
+    "Price": "48.38",
+    "Change %": "+0.08%",
+    "Change": "+0.04",
+    "High": "48.38",
+    "Low": "48.32",
     "Tech Rating": "Buy"
   },
   {
