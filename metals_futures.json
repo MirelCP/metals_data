@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "Nickel Futures",
-    "Price": "15,062.16",
-    "Change %": "−0.05%",
-    "Change": "−7.05",
-    "High": "15,075.00",
-    "Low": "15,050.00",
-    "Tech Rating": "Strong sell"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "Nickel Futures",
     "Price": "120,640",
     "Change %": "−0.49%",
     "Change": "−600",
     "High": "120,940",
     "Low": "120,360",
+    "Tech Rating": "Strong sell"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "Nickel Futures",
+    "Price": "15,062.16",
+    "Change %": "−0.05%",
+    "Change": "−7.05",
+    "High": "15,075.00",
+    "Low": "15,050.00",
     "Tech Rating": "Strong sell"
   },
   {
@@ -392,22 +392,22 @@
   {
     "Symbol": "PB1!",
     "Name": "Lead Futures",
-    "Price": "17,400",
-    "Change %": "+0.23%",
-    "Change": "+40",
-    "High": "17,475",
-    "Low": "17,335",
-    "Tech Rating": "Strong buy"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "Lead Futures",
     "Price": "2,006.98",
     "Change %": "−0.04%",
     "Change": "−0.85",
     "High": "2,006.98",
     "Low": "2,006.98",
     "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "PB1!",
+    "Name": "Lead Futures",
+    "Price": "17,400",
+    "Change %": "+0.23%",
+    "Change": "+40",
+    "High": "17,475",
+    "Low": "17,335",
+    "Tech Rating": "Strong buy"
   },
   {
     "Symbol": "PD1!",
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "283,740",
-    "Change %": "−0.33%",
-    "Change": "−950",
-    "High": "286,460",
-    "Low": "282,050",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "36,136.00",
     "Change %": "+0.91%",
     "Change": "+327.50",
     "High": "36,136.00",
     "Low": "36,136.00",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "283,740",
+    "Change %": "−0.33%",
+    "Change": "−950",
+    "High": "286,460",
+    "Low": "282,050",
     "Tech Rating": "Buy"
   },
   {
