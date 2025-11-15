@@ -162,9 +162,9 @@
   {
     "Symbol": "GD1!",
     "Name": "Gold Futures",
-    "Price": "4,095.8",
-    "Change %": "+0.04%",
-    "Change": "+1.6",
+    "Price": "4,094.9",
+    "Change %": "+0.02%",
+    "Change": "+0.7",
     "High": "4,118.1",
     "Low": "4,080.1",
     "Tech Rating": "Buy"
@@ -412,12 +412,12 @@
   {
     "Symbol": "PD1!",
     "Name": "Palladium Futures",
-    "Price": "1,419.99",
-    "Change %": "−0.77%",
-    "Change": "−11.02",
+    "Price": "1,419.06",
+    "Change %": "−0.84%",
+    "Change": "−11.95",
     "High": "1,437.67",
     "Low": "1,409.55",
-    "Tech Rating": "Neutral"
+    "Tech Rating": "Sell"
   },
   {
     "Symbol": "PL1!",
@@ -432,9 +432,9 @@
   {
     "Symbol": "PT1!",
     "Name": "Platinum Futures",
-    "Price": "1,571.1",
-    "Change %": "−1.00%",
-    "Change": "−15.9",
+    "Price": "1,572.4",
+    "Change %": "−0.92%",
+    "Change": "−14.6",
     "High": "1,588.0",
     "Low": "1,565.6",
     "Tech Rating": "Neutral"
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "Tin Futures",
-    "Price": "36,702.00",
-    "Change %": "−1.42%",
-    "Change": "−530.30",
-    "High": "36,702.00",
-    "Low": "36,702.00",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "Tin Futures",
     "Price": "290,940",
     "Change %": "−1.12%",
     "Change": "−3,310",
     "High": "291,860",
     "Low": "288,230",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "Tin Futures",
+    "Price": "36,702.00",
+    "Change %": "−1.42%",
+    "Change": "−530.30",
+    "High": "36,702.00",
+    "Low": "36,702.00",
     "Tech Rating": "Buy"
   },
   {
@@ -582,9 +582,9 @@
   {
     "Symbol": "SV1!",
     "Name": "Silver Futures",
-    "Price": "50.87",
-    "Change %": "−0.64%",
-    "Change": "−0.33",
+    "Price": "50.82",
+    "Change %": "−0.74%",
+    "Change": "−0.38",
     "High": "51.48",
     "Low": "50.54",
     "Tech Rating": "Buy"
