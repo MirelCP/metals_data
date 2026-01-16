@@ -2,9 +2,9 @@
   {
     "Symbol": "1OZ1!",
     "Name": "",
-    "Price": "4,607.75",
-    "Change %": "−0.35%",
-    "Change": "−16.00",
+    "Price": "4,616.50",
+    "Change %": "−0.16%",
+    "Change": "−7.25",
     "High": "4,625.25",
     "Low": "4,594.50",
     "Tech Rating": "Buy"
@@ -42,9 +42,9 @@
   {
     "Symbol": "ALI1!",
     "Name": "",
-    "Price": "3,118.50",
-    "Change %": "−0.83%",
-    "Change": "−26.00",
+    "Price": "3,111.00",
+    "Change %": "−1.07%",
+    "Change": "−33.50",
     "High": "3,160.75",
     "Low": "3,104.00",
     "Tech Rating": "Buy"
@@ -52,9 +52,9 @@
   {
     "Symbol": "ALUMINI1!",
     "Name": "",
-    "Price": "317.75",
-    "Change %": "−0.42%",
-    "Change": "−1.35",
+    "Price": "318.25",
+    "Change %": "−0.27%",
+    "Change": "−0.85",
     "High": "319.00",
     "Low": "316.00",
     "Tech Rating": "Buy"
@@ -62,9 +62,9 @@
   {
     "Symbol": "ALUMINIUM1!",
     "Name": "",
-    "Price": "317.05",
-    "Change %": "−0.52%",
-    "Change": "−1.65",
+    "Price": "317.45",
+    "Change %": "−0.39%",
+    "Change": "−1.25",
     "High": "319.40",
     "Low": "315.30",
     "Tech Rating": "Buy"
@@ -112,9 +112,9 @@
   {
     "Symbol": "COPPER1!",
     "Name": "",
-    "Price": "1,296.00",
-    "Change %": "−0.96%",
-    "Change": "−12.50",
+    "Price": "1,297.40",
+    "Change %": "−0.85%",
+    "Change": "−11.10",
     "High": "1,302.30",
     "Low": "1,290.15",
     "Tech Rating": "Buy"
@@ -132,19 +132,19 @@
   {
     "Symbol": "FEF1!",
     "Name": "",
-    "Price": "106.95",
-    "Change %": "−0.42%",
-    "Change": "−0.45",
+    "Price": "106.75",
+    "Change %": "−0.61%",
+    "Change": "−0.65",
     "High": "107.65",
-    "Low": "106.80",
-    "Tech Rating": "Neutral"
+    "Low": "106.55",
+    "Tech Rating": "Sell"
   },
   {
     "Symbol": "FGLD1!",
     "Name": "",
-    "Price": "4,601.0",
-    "Change %": "−0.26%",
-    "Change": "−11.8",
+    "Price": "4,609.2",
+    "Change %": "−0.08%",
+    "Change": "−3.6",
     "High": "4,633.8",
     "Low": "4,601.0",
     "Tech Rating": "Buy"
@@ -152,9 +152,9 @@
   {
     "Symbol": "GC1!",
     "Name": "",
-    "Price": "4,608.2",
-    "Change %": "−0.34%",
-    "Change": "−15.5",
+    "Price": "4,616.6",
+    "Change %": "−0.15%",
+    "Change": "−7.1",
     "High": "4,625.5",
     "Low": "4,594.6",
     "Tech Rating": "Buy"
@@ -162,9 +162,9 @@
   {
     "Symbol": "GD1!",
     "Name": "",
-    "Price": "4,621.3",
-    "Change %": "−0.28%",
-    "Change": "−12.8",
+    "Price": "4,631.3",
+    "Change %": "−0.06%",
+    "Change": "−2.8",
     "High": "4,643.8",
     "Low": "4,611.0",
     "Tech Rating": "Buy"
@@ -172,29 +172,29 @@
   {
     "Symbol": "GF101!",
     "Name": "",
-    "Price": "68,810",
-    "Change %": "−0.36%",
-    "Change": "−250",
-    "High": "69,220",
-    "Low": "68,680",
+    "Price": "69,010",
+    "Change %": "+0.22%",
+    "Change": "+150",
+    "High": "69,020",
+    "Low": "68,970",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "GO1!",
     "Name": "",
-    "Price": "4,649.6",
-    "Change %": "−0.17%",
-    "Change": "−7.8",
-    "High": "4,669.7",
-    "Low": "4,628.3",
+    "Price": "4,658.5",
+    "Change %": "+0.26%",
+    "Change": "+12.3",
+    "High": "4,659.3",
+    "Low": "4,653.5",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "GOLD1!",
     "Name": "",
-    "Price": "143,031",
-    "Change %": "−0.06%",
-    "Change": "−90",
+    "Price": "143,123",
+    "Change %": "+0.00%",
+    "Change": "+2",
     "High": "143,296",
     "Low": "142,400",
     "Tech Rating": "Buy"
@@ -202,19 +202,19 @@
   {
     "Symbol": "GOLDGUINEA1!",
     "Name": "",
-    "Price": "116,107",
-    "Change %": "−0.12%",
-    "Change": "−141",
-    "High": "116,350",
-    "Low": "115,711",
+    "Price": "115,911",
+    "Change %": "−0.29%",
+    "Change": "−337",
+    "High": "116,713",
+    "Low": "115,700",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "GOLDM1!",
     "Name": "",
-    "Price": "142,820",
-    "Change %": "−0.02%",
-    "Change": "−30",
+    "Price": "142,835",
+    "Change %": "−0.01%",
+    "Change": "−15",
     "High": "142,950",
     "Low": "142,002",
     "Tech Rating": "Buy"
@@ -222,10 +222,10 @@
   {
     "Symbol": "GOLDPETAL1!",
     "Name": "",
-    "Price": "14,533",
-    "Change %": "−0.06%",
-    "Change": "−9",
-    "High": "14,540",
+    "Price": "14,530",
+    "Change %": "−0.08%",
+    "Change": "−12",
+    "High": "14,544",
     "Low": "14,472",
     "Tech Rating": "Buy"
   },
@@ -242,9 +242,9 @@
   {
     "Symbol": "HG1!",
     "Name": "",
-    "Price": "5.8860",
-    "Change %": "−1.76%",
-    "Change": "−0.1055",
+    "Price": "5.9160",
+    "Change %": "−1.26%",
+    "Change": "−0.0755",
     "High": "6.0245",
     "Low": "5.8310",
     "Tech Rating": "Buy"
@@ -262,9 +262,9 @@
   {
     "Symbol": "LEAD1!",
     "Name": "",
-    "Price": "191.75",
-    "Change %": "−0.13%",
-    "Change": "−0.25",
+    "Price": "192.00",
+    "Change %": "0.00%",
+    "Change": "0.00",
     "High": "192.25",
     "Low": "191.25",
     "Tech Rating": "Buy"
@@ -272,9 +272,9 @@
   {
     "Symbol": "LEADMINI1!",
     "Name": "",
-    "Price": "191.85",
-    "Change %": "−0.21%",
-    "Change": "−0.40",
+    "Price": "192.20",
+    "Change %": "−0.03%",
+    "Change": "−0.05",
     "High": "192.55",
     "Low": "191.70",
     "Tech Rating": "Buy"
@@ -322,9 +322,9 @@
   {
     "Symbol": "MGC1!",
     "Name": "",
-    "Price": "4,608.5",
-    "Change %": "−0.33%",
-    "Change": "−15.2",
+    "Price": "4,616.7",
+    "Change %": "−0.15%",
+    "Change": "−7.0",
     "High": "4,625.3",
     "Low": "4,594.5",
     "Tech Rating": "Buy"
@@ -332,21 +332,11 @@
   {
     "Symbol": "MHG1!",
     "Name": "",
-    "Price": "5.8860",
-    "Change %": "−1.76%",
-    "Change": "−0.1055",
+    "Price": "5.9160",
+    "Change %": "−1.26%",
+    "Change": "−0.0755",
     "High": "6.0245",
     "Low": "5.8310",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "",
-    "Price": "18,384.14",
-    "Change %": "−0.68%",
-    "Change": "−126.49",
-    "High": "18,384.14",
-    "Low": "18,384.14",
     "Tech Rating": "Buy"
   },
   {
@@ -360,11 +350,21 @@
     "Tech Rating": "Buy"
   },
   {
+    "Symbol": "NI1!",
+    "Name": "",
+    "Price": "18,384.14",
+    "Change %": "−0.68%",
+    "Change": "−126.49",
+    "High": "18,384.14",
+    "Low": "18,384.14",
+    "Tech Rating": "Buy"
+  },
+  {
     "Symbol": "NICKEL1!",
     "Name": "",
-    "Price": "1,698.0",
-    "Change %": "−1.72%",
-    "Change": "−29.7",
+    "Price": "1,707.1",
+    "Change %": "−1.19%",
+    "Change": "−20.6",
     "High": "1,727.0",
     "Low": "1,690.0",
     "Tech Rating": "Buy"
@@ -382,22 +382,12 @@
   {
     "Symbol": "PA1!",
     "Name": "",
-    "Price": "1,805.0",
-    "Change %": "−3.77%",
-    "Change": "−70.8",
+    "Price": "1,800.5",
+    "Change %": "−4.01%",
+    "Change": "−75.3",
     "High": "1,877.5",
     "Low": "1,780.0",
     "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "",
-    "Price": "2,073.64",
-    "Change %": "+0.88%",
-    "Change": "+18.14",
-    "High": "2,073.64",
-    "Low": "2,052.50",
-    "Tech Rating": "Strong buy"
   },
   {
     "Symbol": "PB1!",
@@ -410,21 +400,31 @@
     "Tech Rating": "Strong buy"
   },
   {
+    "Symbol": "PB1!",
+    "Name": "",
+    "Price": "2,073.64",
+    "Change %": "+0.88%",
+    "Change": "+18.14",
+    "High": "2,073.64",
+    "Low": "2,052.50",
+    "Tech Rating": "Strong buy"
+  },
+  {
     "Symbol": "PD1!",
     "Name": "",
-    "Price": "1,802.90",
-    "Change %": "−1.73%",
-    "Change": "−31.67",
+    "Price": "1,795.62",
+    "Change %": "−2.12%",
+    "Change": "−38.95",
     "High": "1,878.42",
-    "Low": "1,778.11",
+    "Low": "1,775.63",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "PL1!",
     "Name": "",
-    "Price": "2,354.4",
-    "Change %": "−2.30%",
-    "Change": "−55.5",
+    "Price": "2,345.4",
+    "Change %": "−2.68%",
+    "Change": "−64.5",
     "High": "2,430.5",
     "Low": "2,316.0",
     "Tech Rating": "Buy"
@@ -432,9 +432,9 @@
   {
     "Symbol": "PT1!",
     "Name": "",
-    "Price": "2,368.2",
-    "Change %": "−0.80%",
-    "Change": "−19.2",
+    "Price": "2,353.5",
+    "Change %": "−1.42%",
+    "Change": "−33.9",
     "High": "2,447.9",
     "Low": "2,328.8",
     "Tech Rating": "Buy"
@@ -442,9 +442,9 @@
   {
     "Symbol": "QC1!",
     "Name": "",
-    "Price": "5.890",
-    "Change %": "−1.69%",
-    "Change": "−0.102",
+    "Price": "5.916",
+    "Change %": "−1.26%",
+    "Change": "−0.075",
     "High": "6.024",
     "Low": "5.828",
     "Tech Rating": "Buy"
@@ -452,9 +452,9 @@
   {
     "Symbol": "QI1!",
     "Name": "",
-    "Price": "91.1125",
-    "Change %": "−1.34%",
-    "Change": "−1.2345",
+    "Price": "91.0125",
+    "Change %": "−1.45%",
+    "Change": "−1.3345",
     "High": "92.6375",
     "Low": "89.2375",
     "Tech Rating": "Buy"
@@ -462,9 +462,9 @@
   {
     "Symbol": "QO1!",
     "Name": "",
-    "Price": "4,609.25",
-    "Change %": "−0.31%",
-    "Change": "−14.50",
+    "Price": "4,617.00",
+    "Change %": "−0.15%",
+    "Change": "−6.75",
     "High": "4,624.00",
     "Low": "4,595.00",
     "Tech Rating": "Buy"
@@ -492,9 +492,9 @@
   {
     "Symbol": "SI1!",
     "Name": "",
-    "Price": "91.080",
-    "Change %": "−1.37%",
-    "Change": "−1.267",
+    "Price": "90.920",
+    "Change %": "−1.55%",
+    "Change": "−1.427",
     "High": "92.645",
     "Low": "89.210",
     "Tech Rating": "Buy"
@@ -502,9 +502,9 @@
   {
     "Symbol": "SIL1!",
     "Name": "",
-    "Price": "91.100",
-    "Change %": "−1.35%",
-    "Change": "−1.247",
+    "Price": "90.910",
+    "Change %": "−1.56%",
+    "Change": "−1.437",
     "High": "92.660",
     "Low": "89.245",
     "Tech Rating": "Buy"
@@ -512,41 +512,31 @@
   {
     "Symbol": "SILVER1!",
     "Name": "",
-    "Price": "292,231",
-    "Change %": "+0.22%",
-    "Change": "+654",
-    "High": "292,264",
+    "Price": "290,721",
+    "Change %": "−0.29%",
+    "Change": "−856",
+    "High": "292,865",
     "Low": "285,513",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "SILVERM1!",
     "Name": "",
-    "Price": "294,099",
-    "Change %": "+0.23%",
-    "Change": "+678",
-    "High": "294,200",
+    "Price": "292,963",
+    "Change %": "−0.16%",
+    "Change": "−458",
+    "High": "294,943",
     "Low": "287,300",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "SILVERMIC1!",
     "Name": "",
-    "Price": "294,073",
-    "Change %": "+0.18%",
-    "Change": "+533",
-    "High": "294,350",
+    "Price": "292,949",
+    "Change %": "−0.20%",
+    "Change": "−591",
+    "High": "295,000",
     "Low": "287,500",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "",
-    "Price": "414,270",
-    "Change %": "−4.33%",
-    "Change": "−18,730",
-    "High": "436,440",
-    "Low": "397,030",
     "Tech Rating": "Buy"
   },
   {
@@ -557,6 +547,16 @@
     "Change": "−1,440.02",
     "High": "51,921.00",
     "Low": "51,780.00",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "",
+    "Price": "414,270",
+    "Change %": "−4.33%",
+    "Change": "−18,730",
+    "High": "436,440",
+    "Low": "397,030",
     "Tech Rating": "Buy"
   },
   {
@@ -582,9 +582,9 @@
   {
     "Symbol": "SV1!",
     "Name": "",
-    "Price": "91.48",
-    "Change %": "+0.85%",
-    "Change": "+0.77",
+    "Price": "91.39",
+    "Change %": "+0.75%",
+    "Change": "+0.68",
     "High": "95.00",
     "Low": "90.21",
     "Tech Rating": "Buy"
@@ -592,19 +592,19 @@
   {
     "Symbol": "SVF1!",
     "Name": "",
-    "Price": "91.71",
-    "Change %": "+0.59%",
-    "Change": "+0.54",
-    "High": "93.43",
-    "Low": "88.40",
+    "Price": "91.69",
+    "Change %": "+0.01%",
+    "Change": "+0.01",
+    "High": "91.86",
+    "Low": "91.69",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "TGD1!",
     "Name": "",
-    "Price": "24,323",
-    "Change %": "−0.30%",
-    "Change": "−72",
+    "Price": "24,379",
+    "Change %": "−0.07%",
+    "Change": "−16",
     "High": "24,419",
     "Low": "24,315",
     "Tech Rating": "Buy"
@@ -612,9 +612,9 @@
   {
     "Symbol": "TGM1!",
     "Name": "",
-    "Price": "24,404.5",
-    "Change %": "+0.04%",
-    "Change": "+9.5",
+    "Price": "24,446.0",
+    "Change %": "+0.21%",
+    "Change": "+51.0",
     "High": "24,499.0",
     "Low": "24,399.0",
     "Tech Rating": "Buy"
@@ -632,31 +632,31 @@
   {
     "Symbol": "TPL1!",
     "Name": "",
-    "Price": "11,200",
-    "Change %": "+0.84%",
-    "Change": "+93",
+    "Price": "11,170",
+    "Change %": "+0.57%",
+    "Change": "+63",
     "High": "11,276",
-    "Low": "11,186",
+    "Low": "11,055",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "TPLM1!",
     "Name": "",
-    "Price": "11,241.0",
-    "Change %": "+1.21%",
-    "Change": "+134.0",
+    "Price": "11,194.0",
+    "Change %": "+0.78%",
+    "Change": "+87.0",
     "High": "11,317.5",
-    "Low": "11,238.0",
+    "Low": "11,079.5",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "TSI1!",
     "Name": "",
-    "Price": "469.1",
-    "Change %": "+4.29%",
-    "Change": "+19.3",
-    "High": "475.0",
-    "Low": "449.7",
+    "Price": "457.0",
+    "Change %": "−2.58%",
+    "Change": "−12.1",
+    "High": "457.0",
+    "Low": "457.0",
     "Tech Rating": "Buy"
   },
   {
@@ -672,19 +672,19 @@
   {
     "Symbol": "XAGUSD1!",
     "Name": "",
-    "Price": "92.30",
-    "Change %": "+1.01%",
-    "Change": "+0.92",
-    "High": "92.36",
+    "Price": "92.41",
+    "Change %": "+1.13%",
+    "Change": "+1.03",
+    "High": "92.75",
     "Low": "91.21",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "XAUTRY1!",
     "Name": "",
-    "Price": "6,671.3",
-    "Change %": "−0.19%",
-    "Change": "−12.5",
+    "Price": "6,690.9",
+    "Change %": "+0.11%",
+    "Change": "+7.1",
     "High": "6,692.5",
     "Low": "6,660.7",
     "Tech Rating": "Buy"
@@ -692,19 +692,19 @@
   {
     "Symbol": "XAUUSD1!",
     "Name": "",
-    "Price": "4,653.6",
-    "Change %": "−0.09%",
-    "Change": "−4.3",
-    "High": "4,662.6",
+    "Price": "4,665.7",
+    "Change %": "+0.17%",
+    "Change": "+7.8",
+    "High": "4,667.2",
     "Low": "4,645.1",
     "Tech Rating": "Buy"
   },
   {
     "Symbol": "XPDUSD1!",
     "Name": "",
-    "Price": "1,836.2",
-    "Change %": "−0.87%",
-    "Change": "−16.2",
+    "Price": "1,809.9",
+    "Change %": "−2.29%",
+    "Change": "−42.5",
     "High": "1,836.2",
     "Low": "1,795.0",
     "Tech Rating": "Buy"
@@ -712,9 +712,9 @@
   {
     "Symbol": "XPTUSD1!",
     "Name": "",
-    "Price": "2,398.6",
-    "Change %": "−0.55%",
-    "Change": "−13.2",
+    "Price": "2,400.0",
+    "Change %": "−0.49%",
+    "Change": "−11.8",
     "High": "2,418.2",
     "Low": "2,366.2",
     "Tech Rating": "Buy"
@@ -722,9 +722,9 @@
   {
     "Symbol": "ZINC1!",
     "Name": "",
-    "Price": "315.50",
-    "Change %": "−0.74%",
-    "Change": "−2.35",
+    "Price": "316.70",
+    "Change %": "−0.36%",
+    "Change": "−1.15",
     "High": "316.90",
     "Low": "315.05",
     "Tech Rating": "Buy"
@@ -732,9 +732,9 @@
   {
     "Symbol": "ZINCMINI1!",
     "Name": "",
-    "Price": "316.20",
-    "Change %": "−0.61%",
-    "Change": "−1.95",
+    "Price": "317.00",
+    "Change %": "−0.36%",
+    "Change": "−1.15",
     "High": "317.25",
     "Low": "315.65",
     "Tech Rating": "Buy"
