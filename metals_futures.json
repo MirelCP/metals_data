@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "",
-    "Price": "379,400",
-    "Change %": "−8.42%",
-    "Change": "−34,870",
-    "High": "397,910",
-    "Low": "377,510",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "",
     "Price": "47,917.00",
     "Change %": "−7.71%",
     "Change": "−4,004.00",
     "High": "47,917.00",
     "Low": "47,917.00",
+    "Tech Rating": "Buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "",
+    "Price": "379,400",
+    "Change %": "−8.42%",
+    "Change": "−34,870",
+    "High": "397,910",
+    "Low": "377,510",
     "Tech Rating": "Buy"
   },
   {
@@ -602,9 +602,9 @@
   {
     "Symbol": "TGD1!",
     "Name": "",
-    "Price": "24,231",
-    "Change %": "−0.67%",
-    "Change": "−164",
+    "Price": "24,400",
+    "Change %": "+0.02%",
+    "Change": "+5",
     "High": "24,419",
     "Low": "24,034",
     "Tech Rating": "Buy"
@@ -612,9 +612,9 @@
   {
     "Symbol": "TGM1!",
     "Name": "",
-    "Price": "24,368.5",
-    "Change %": "−0.11%",
-    "Change": "−26.5",
+    "Price": "24,499.0",
+    "Change %": "+0.43%",
+    "Change": "+104.0",
     "High": "24,499.0",
     "Low": "24,105.0",
     "Tech Rating": "Buy"
@@ -632,9 +632,9 @@
   {
     "Symbol": "TPL1!",
     "Name": "",
-    "Price": "11,081",
-    "Change %": "−0.23%",
-    "Change": "−26",
+    "Price": "11,240",
+    "Change %": "+1.20%",
+    "Change": "+133",
     "High": "11,276",
     "Low": "10,873",
     "Tech Rating": "Buy"
@@ -642,9 +642,9 @@
   {
     "Symbol": "TPLM1!",
     "Name": "",
-    "Price": "11,147.0",
-    "Change %": "+0.36%",
-    "Change": "+40.0",
+    "Price": "11,317.5",
+    "Change %": "+1.90%",
+    "Change": "+210.5",
     "High": "11,317.5",
     "Low": "10,908.0",
     "Tech Rating": "Buy"
@@ -652,9 +652,9 @@
   {
     "Symbol": "TSI1!",
     "Name": "",
-    "Price": "450.0",
-    "Change %": "−4.07%",
-    "Change": "−19.1",
+    "Price": "457.0",
+    "Change %": "−2.58%",
+    "Change": "−12.1",
     "High": "457.5",
     "Low": "450.0",
     "Tech Rating": "Buy"
