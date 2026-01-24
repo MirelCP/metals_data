@@ -162,10 +162,10 @@
   {
     "Symbol": "GD1!",
     "Name": "",
-    "Price": "4,996.8",
-    "Change %": "+0.43%",
-    "Change": "+21.3",
-    "High": "5,004.3",
+    "Price": "5,006.1",
+    "Change %": "+0.62%",
+    "Change": "+30.6",
+    "High": "5,010.0",
     "Low": "4,971.6",
     "Tech Rating": "Buy"
   },
@@ -412,12 +412,12 @@
   {
     "Symbol": "PD1!",
     "Name": "",
-    "Price": "2,043.60",
-    "Change %": "−0.25%",
-    "Change": "−5.12",
-    "High": "2,048.66",
+    "Price": "2,063.79",
+    "Change %": "+0.74%",
+    "Change": "+15.07",
+    "High": "2,068.55",
     "Low": "2,015.03",
-    "Tech Rating": "Buy"
+    "Tech Rating": "Strong buy"
   },
   {
     "Symbol": "PL1!",
@@ -432,12 +432,12 @@
   {
     "Symbol": "PT1!",
     "Name": "",
-    "Price": "2,778.0",
-    "Change %": "+1.26%",
-    "Change": "+34.5",
-    "High": "2,780.7",
+    "Price": "2,806.5",
+    "Change %": "+2.30%",
+    "Change": "+63.0",
+    "High": "2,818.2",
     "Low": "2,726.1",
-    "Tech Rating": "Buy"
+    "Tech Rating": "Strong buy"
   },
   {
     "Symbol": "QC1!",
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "",
-    "Price": "418,090",
-    "Change %": "+2.00%",
-    "Change": "+8,190",
-    "High": "433,800",
-    "Low": "401,010",
-    "Tech Rating": "Strong buy"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "",
     "Price": "56,636.00",
     "Change %": "+9.46%",
     "Change": "+4,893.00",
     "High": "56,636.00",
     "Low": "56,636.00",
+    "Tech Rating": "Strong buy"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "",
+    "Price": "418,090",
+    "Change %": "+2.00%",
+    "Change": "+8,190",
+    "High": "433,800",
+    "Low": "401,010",
     "Tech Rating": "Strong buy"
   },
   {
@@ -582,12 +582,12 @@
   {
     "Symbol": "SV1!",
     "Name": "",
-    "Price": "103.19",
-    "Change %": "+2.45%",
-    "Change": "+2.47",
-    "High": "103.25",
+    "Price": "103.81",
+    "Change %": "+3.07%",
+    "Change": "+3.09",
+    "High": "104.19",
     "Low": "100.48",
-    "Tech Rating": "Strong buy"
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "SVF1!",
