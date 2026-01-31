@@ -342,22 +342,22 @@
   {
     "Symbol": "NI1!",
     "Name": "",
-    "Price": "17,783.91",
-    "Change %": "−2.28%",
-    "Change": "−415.07",
-    "High": "17,895.00",
-    "Low": "17,783.91",
-    "Tech Rating": "Buy"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "",
     "Price": "140,220",
     "Change %": "−3.75%",
     "Change": "−5,460",
     "High": "141,100",
     "Low": "137,280",
     "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "",
+    "Price": "17,783.91",
+    "Change %": "−2.28%",
+    "Change": "−415.07",
+    "High": "17,895.00",
+    "Low": "17,783.91",
+    "Tech Rating": "Buy"
   },
   {
     "Symbol": "NICKEL1!",
@@ -412,9 +412,9 @@
   {
     "Symbol": "PD1!",
     "Name": "",
-    "Price": "1,727.83",
+    "Price": "1,727.86",
     "Change %": "−5.06%",
-    "Change": "−92.17",
+    "Change": "−92.14",
     "High": "1,812.00",
     "Low": "1,618.50",
     "Tech Rating": "Sell"
