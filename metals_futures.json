@@ -162,9 +162,9 @@
   {
     "Symbol": "GD1!",
     "Name": "",
-    "Price": "4,998.1",
-    "Change %": "+0.52%",
-    "Change": "+26.0",
+    "Price": "4,999.0",
+    "Change %": "+0.54%",
+    "Change": "+26.9",
     "High": "5,000.0",
     "Low": "4,950.1",
     "Tech Rating": "Buy"
@@ -342,21 +342,21 @@
   {
     "Symbol": "NI1!",
     "Name": "",
-    "Price": "16,900.60",
-    "Change %": "+0.10%",
-    "Change": "+16.38",
-    "High": "16,900.60",
-    "Low": "16,900.60",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "NI1!",
-    "Name": "",
     "Price": "133,750",
     "Change %": "+0.87%",
     "Change": "+1,150",
     "High": "133,990",
     "Low": "131,800",
+    "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "NI1!",
+    "Name": "",
+    "Price": "16,900.60",
+    "Change %": "+0.10%",
+    "Change": "+16.38",
+    "High": "16,900.60",
+    "Low": "16,900.60",
     "Tech Rating": "Neutral"
   },
   {
@@ -392,16 +392,6 @@
   {
     "Symbol": "PB1!",
     "Name": "",
-    "Price": "1,931.27",
-    "Change %": "+0.06%",
-    "Change": "+1.07",
-    "High": "1,934.00",
-    "Low": "1,919.50",
-    "Tech Rating": "Sell"
-  },
-  {
-    "Symbol": "PB1!",
-    "Name": "",
     "Price": "16,535",
     "Change %": "−0.12%",
     "Change": "−20",
@@ -410,11 +400,21 @@
     "Tech Rating": "Sell"
   },
   {
+    "Symbol": "PB1!",
+    "Name": "",
+    "Price": "1,931.27",
+    "Change %": "+0.06%",
+    "Change": "+1.07",
+    "High": "1,934.00",
+    "Low": "1,919.50",
+    "Tech Rating": "Sell"
+  },
+  {
     "Symbol": "PD1!",
     "Name": "",
-    "Price": "1,713.03",
+    "Price": "1,713.04",
     "Change %": "+0.47%",
-    "Change": "+8.02",
+    "Change": "+8.03",
     "High": "1,736.00",
     "Low": "1,698.01",
     "Tech Rating": "Sell"
@@ -432,9 +432,9 @@
   {
     "Symbol": "PT1!",
     "Name": "",
-    "Price": "2,128.1",
-    "Change %": "+1.93%",
-    "Change": "+40.2",
+    "Price": "2,127.9",
+    "Change %": "+1.92%",
+    "Change": "+40.0",
     "High": "2,135.0",
     "Low": "2,075.1",
     "Tech Rating": "Sell"
@@ -542,21 +542,21 @@
   {
     "Symbol": "SN1!",
     "Name": "",
-    "Price": "46,541.00",
-    "Change %": "+0.54%",
-    "Change": "+248.00",
-    "High": "46,541.00",
-    "Low": "46,541.00",
-    "Tech Rating": "Neutral"
-  },
-  {
-    "Symbol": "SN1!",
-    "Name": "",
     "Price": "366,450",
     "Change %": "+1.69%",
     "Change": "+6,080",
     "High": "368,800",
     "Low": "358,130",
+    "Tech Rating": "Neutral"
+  },
+  {
+    "Symbol": "SN1!",
+    "Name": "",
+    "Price": "46,541.00",
+    "Change %": "+0.54%",
+    "Change": "+248.00",
+    "High": "46,541.00",
+    "Low": "46,541.00",
     "Tech Rating": "Neutral"
   },
   {
@@ -582,9 +582,9 @@
   {
     "Symbol": "SV1!",
     "Name": "",
-    "Price": "79.84",
-    "Change %": "+2.32%",
-    "Change": "+1.81",
+    "Price": "79.86",
+    "Change %": "+2.35%",
+    "Change": "+1.83",
     "High": "79.98",
     "Low": "77.00",
     "Tech Rating": "Neutral"
